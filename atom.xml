@@ -1,19 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://zsxqshare.github.io</id>
+    <id>E:/fun/zsxq_blog/output</id>
     <title>共享星球高级会员版</title>
-    <updated>2019-08-19T07:31:45.783Z</updated>
+    <updated>2019-08-23T08:28:57.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://zsxqshare.github.io"/>
-    <link rel="self" href="https://zsxqshare.github.io/atom.xml"/>
+    <link rel="alternate" href="E:/fun/zsxq_blog/output"/>
+    <link rel="self" href="E:/fun/zsxq_blog/output/atom.xml"/>
     <subtitle>星球精华分享</subtitle>
-    <logo>https://zsxqshare.github.io/images/avatar.png</logo>
-    <icon>https://zsxqshare.github.io/favicon.ico</icon>
+    <logo>E:/fun/zsxq_blog/output/images/avatar.png</logo>
+    <icon>E:/fun/zsxq_blog/output/favicon.ico</icon>
     <rights>All rights reserved 2019, 共享星球高级会员版</rights>
     <entry>
+        <title type="html"><![CDATA[共享群专享课程云盘]]></title>
+        <id>E:/fun/zsxq_blog/output/post/lazy_vip/index.html</id>
+        <link href="E:/fun/zsxq_blog/output/post/lazy_vip/index.html">
+        </link>
+        <updated>2019-08-23T08:28:24.000Z</updated>
+        <content type="html"><![CDATA[<p>仅供懒人找资源共享知识星球成员查看，过些时间考虑加密。<br>
+1.香帅的北大金融学课（完结  ￥299<br>
+链接: https://pan.baidu.com/s/1TlNsL_3-OgeCY--SBumqBQ 提取码: acbn<br>
+2.公众号90招运营速成指南——粥... ￥99<br>
+链接: https://pan.baidu.com/s/1-QCY1E2jWe1tUSQ6fBGoTQ 提取码: j2wc<br>
+3.【完结】粥左罗教你从零开始学写..￥199<br>
+链接: https://pan.baidu.com/s/15rl_vwnk-dt1QGuRR5P7wg 提取码: j1pk</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[之前我会吹牛逼]]></title>
-        <id>https://zsxqshare.github.io/post/51</id>
-        <link href="https://zsxqshare.github.io/post/51">
+        <id>E:/fun/zsxq_blog/output/post/51/index.html</id>
+        <link href="E:/fun/zsxq_blog/output/post/51/index.html">
         </link>
         <updated>2019-08-17T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>Lissa Tam : <br>之前我会吹牛逼， 说把一个产品推上了关键词首页，推爆了云云。<br>随着对亚马逊的认识越来越深，于是发现，我不过是把产品推到了最基本的一个地段而已。<br>这个状态，是一个打基础的状态，也就是说，能稳赚不赔，但是不能赚大。(如图）<br><br>目前已经产品已经推到了关键词排名第1，大类前70，这样差不多算是一个爆品了。回过头复盘，这段打基础的过程，的确有很多可以总结复制的地方。<br><br>所以今天和大家分享一下，新品怎么打基础，为推爆做准备。<br>也就是怎么从0-0.5.（下一篇和大家分享怎么从0.5-1）<br><br>——手动分割线——<br><br>首先拿到一个产品后，我们可以干什么？<br>1. 充分了解产品属性。有什么功能，人群是谁，有啥特点，有啥缺点，这个在卖之前，得先了解清楚。<br>2. 了解市场。这个产品在亚马逊上属于哪个类目，这个类目有哪些节点，其中有哪些产品在市场排名靠前，他们的特点和功能分别是什么，对比自己的产品来说，相同和不同之处有哪些。 这个时候，就要代入第一步了解的内容，看看自己的产品和这些妖艳贱货们有啥不一样。<br>3. 了解用户。这个时候可以去竞品的评论区和QA刷一刷，看客户觉得人家哪些是优点，哪些是缺点。我当时把节点排名前40的评论区和QA全部扒了下来，通过词云工具，分析用户最关心的是什么，有什么是竞品做的差的，是否有隐性客户需求点。<br>4. 根据上述分析，开始提取产品的卖点，确定好定价，以及可接受的价格浮动范围（用于做秒杀，开优惠券等），撰写产品5点+详情，同时制作套图和A+需求表。<br><br>好了，以上是准备工作，准备工作做完后，就可以准备正式的推广内容了。<br>这个时候产品处于准上线状态，接下来进入第二步，规划推广。<br>需要准备的内容有：<br><br>1. 评论及QA。<br>这个其实也是listing优化中的重要一步。你要让产品的界面处于“活着”的状态，不断给东西，不断有变化，让搜索引擎能够不断抓取到关键词信息，提高权重，同时也增加潜在用户的信任度。<br>前面我们提到，我扒了竞品们的QA和评论，这个时候，灵魂写手上身，一改，就变成自己的了。我当时根据提取出来用户在意的点，QA大概分点一共准备了40条，评论准备了20条。<br><br>2. 库存规划表。<br>从国内出售的自发货不够有优势，所以我们借助亚马逊仓库，用的是FBA发货（相当于国内的京东物流）。但是FBA发货是需要仓储费等一系列费用的，所以需要算好出售数量，算好周期，备好货。一般根据选择的物流商，物流速度（从国内发到亚马逊）从7-14天均可选择。此时还需算好亚马逊的接收期，接收大概3-7天（我后面因为库存的问题，丢了一波赚钱的机会。所以库存很重要很重要）<br><br>3. 关键词提取及准备。<br>关键词怎么提取，前文有讲过，先不赘述（有需要的朋友看这里）。提取关键词后主要用于追踪每天关键词的自然排名。自然排名越靠前，能抓来的流量越大（你永远不知道用户会搜个什么鬼词就看到你的产品了，因此前期能拓宽的词尽量拓宽，不能拓宽的，广告来凑）<br><br>4. facebook账户。<br>我前期主要是玩站内，那么，facebook主要是用来做测评的。所以，账户一开始多准备几个备用的，主号一定要好好养，最好别让自己的账号被封。<br><br>好了，规划推广阶段整理完毕。<br>上述两个阶段，大概一共花了2天左右的时间。接下来发货，等到货，研究竞品和市场，做测评，养号。（因为我负责的产品一开始就发了货到亚马逊，因此我没有等货到这个阶段，大家可以根据自己的实际情况，对上述步骤进行调整，以达到最适合自己推广的节奏。）<br><br>然后开始正式推广了。<br><br>正式推广要留意3个事情。<br>第一，REVIEW, 第二，QA，第三，每日销量。<br>要知道，作为一个卖货的，无非就是流量+转化。<br>尽可能占据更多的流量窗口，以及流量窗口的好位置。正所谓站在C位，才更容易被PICK嘛。<br>亚马逊的流量窗口有：节点、搜索框、优惠券窗口、活动窗口、gift card等等。<br>占据流量比重比较大的，就是节点、搜索框和活动窗口这三个。而日常可控的，就是节点和搜索框这两个。<br>那么占据好位置，就是节点排名、关键词自然搜索排名。<br><br>要知道，所有可见的数据都是可被人为操纵的，但的确会有一定的风险性（在作死的边缘疯狂的试探）。<br>这个看每个人的权衡。<br><br>而操控数据最简单粗暴的方式，就是测评（刷单）。<br><br>我个人很讨厌刷单。做运营方法这么多，为啥偏要靠刷单，是吧。万一把自己搞死了呢？？<br>而且刷单又没什么技术含量，还很费时间，学不到什么东西。<br>但是讲道理刷单这么个骚操作是真的很好用啊哈哈哈哈。<br><br>我无意标榜刷单的正确性，这玩意的确是不太好的，但是在对于推新来说，在你没有什么推广渠道、没什么运营手段的情况下，这不失为一个辅助工具。<br><br>说一下刷单用来干嘛：<br>1.刷销量（用于提升节点排名）；<br>2.刷关键词转化（用于提升关键词自然排名）<br>3.刷review和QA的数量（用于优化listing，增加关键词权重，以及客户信任感）<br>4.刷点赞review和QA（优化listing界面）<br><br>根据刷单的目的不同，所做需要测评人做的操作也不同。当然你也可以让你的测评人把这些事儿全给做了，毕竟你是金主爸爸。<br><br>注意，新品的review一定要好看，最好是文字+图片+视频的形式，增加信任感。<br>尽快增加review的数量到12个以上，QA的数量为20个以上。（注意留评率控制在50%以下，怕有风险就控制在30%以下）<br><br>有了4个评论的时候，就可以开自动广告，让广告多跑一点关键词，拓展一下流量领域。<br>有了12个评论的时候，就把手动广告开上。每日优化。<br>新品的广告预算可以给到亚马逊推荐预算的120%-150%左右。（我一般会给的比较高，看个人）<br>当然，我广告这块没有特别关注，前期的转化并不是很好。但是没有关系，我的目的主要是让他多跑一些关键词，在更多的关键词下有展现。<br><br>开完广告后，每天统计关键词自然排名的时候，及时统计广告排名，看看哪些关键词下广告有展现，哪些没有，并逐步优化，尽可能让更多的关键词下出现自己的产品，且排名靠前。不管是自然排名还是广告排名。<br>根据每天的测评出单，以及自然出单，以及自然排名，可以总结出多少总单能够到什么位置，之后在每天自然出单称不上的时候，就可以测评补一下，保证位置。<br>所以其实我并没有每天都测评，我是根据实际情况来的，尽可能多一些真实用户购买数据，让销量稳住。当稳住一定时间后，我会继续做测评，用来冲一下日销量和排名，让自己的销量稳步增长。<br><br>那么做测评的话，这里有一些建议：从带有主关键词的长尾词测起。由于包含关系，这种长尾词会带动主关键词的自然排名。<br>把二级长尾词测到亚马逊精选，自然排名第一，再去测一级长尾词，再测主关键词。按照这个顺序，整体的关键词排名都会很好看。<br><br>再讲一下活动。<br>对于新品，一定要重视活动，最好让每次活动都80%以上结束（如果不能冲上，那就做测评）<br>我第一次活动记错了时间，是0%结束的。十分悲伤。但即便如此，我还是把产品推起来了，说明啥，一两次没达到没关系，后面跟起来就好，不要因为一两次没做好，就放弃。<br>除了本产品可申请的活动外，还可以利用一些骚操作例如绑变体等增加产品的活动，把资源都给这条产品。<br>前提是，如果你是站点负责人，一定要做好产品定位，哪个是利润，哪个是引流。我的产品的目标就是做大做强，最快的速度拿到最好的排名。<br><br>除此之外，还有coupon（优惠券）<br>我做过测评，大额优惠券情况下，金额比百分比的点击率好用。<br>大家可以根据自己的情况测试一下。开优惠券会有多一个单独的展示窗口，在搜索框下的产品展示，也会更亮眼一点。<br><br>从0-0.5，大概就这些，做好了这些，那么你的产品1个月甚至是更短的时间内就能上首页（看市场的啊），稳定出单。<br><br>总结一下，就是细心，把细节做到位。<br><br>如果你有别的渠道，你也可以站内外一起做，包括deals网站和社交渠道，一开始就直接放大招，给最大的流量（如果非deals网站注意不要直接给网址，可以给图片或视频上水印等，因为转化率低会拉低产品表现，影响亚马逊对产品的判断）<a href=https://t.zsxq.com/2naqvrN>https://t.zsxq.com/2naqvrN </a><br>2019-08-18<img src="https://images.zsxq.com/FjrOYIjpBgTwCW0X9FZsyMqC3MuA?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&amp;e=1906272000&amp;token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_3v5rLq1Gw37pBSdg84q1jtl3gY=" alt=""><br>点赞数:57<br>评论区：<br>森淼 : 优秀 [鼓掌]<br> Lissa Tam : (/ω＼)<br> 毅 : 你是做运营还是做培训的？<br> 夫子 : 我是感觉，如果我有一个好的产品，而它也确实是一个好的产品，那么我想让客户更低成本地获得它，那么有方向性地补单（我们称之为技术补控），就是很合理的操作思路。这里我们不探讨这个方法对与否，我们只是为了让我的客户更低成本获得一个好的产品，补单其实也算是为了把运营成本降低然后以较高性价比的姿态回馈给信任我们产品的客户<br> 阿瑞斯 : 大类目70名？这么凶啊[发呆]<br> Lissa Tam : 国内的玩法和国外的玩法会有一点不同。<br>
@@ -23,8 +38,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[在隔壁星球看到一个]]></title>
-        <id>https://zsxqshare.github.io/post/52</id>
-        <link href="https://zsxqshare.github.io/post/52">
+        <id>E:/fun/zsxq_blog/output/post/52/index.html</id>
+        <link href="E:/fun/zsxq_blog/output/post/52/index.html">
         </link>
         <updated>2019-08-14T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>文彬文质彬彬 : 在隔壁星球看到一个关于<br><br>TO B企业增长的问答<br><br>想到曹大星球这方面的朋友多<br>搬运分享一下<br>2019-08-15<img src="https://images.zsxq.com/FsBlgWFjr_-uA_tq02w9T9IQw4Ew?e=1906272000&amp;token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:5Hjma03yT6T11FduvfOC47Le_no=" alt=""><br>点赞数:26<br></p>
@@ -32,8 +47,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[每周三带你认识一]]></title>
-        <id>https://zsxqshare.github.io/post/1</id>
-        <link href="https://zsxqshare.github.io/post/1">
+        <id>E:/fun/zsxq_blog/output/post/1/index.html</id>
+        <link href="E:/fun/zsxq_blog/output/post/1/index.html">
         </link>
         <updated>2019-08-13T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>亦仁 : <br><br>每周三，带你认识一位厉害的生财合伙人。<br><br>预告帖突破199赞大关，虽然延迟了一周，但也是来自不易 <br><br>说实话，今天这篇生财合伙人分享，199赞给作者不过分，大胆一点说，小红书运营，看这篇就够了。外面几千块钱的小红书运营课程未必比得上这篇文章。<br><br>感谢本期合伙人 带来的这篇干货爆棚的经验分享：小红书运营100条。<br><br>本篇分享分上下两部分：<br><br>第一部分：小红书个人账号运营50条 <br>第二部分：小红书品牌账号运营及投放50条<br><br>文章较长图片较多，不再多言，采用石墨链接分享，enjoy！ <br><br>本文全部赞赏均将转给原作者。<br><br><br><br>希望与 进一步交流的圈友，可加微信592845309王煜，备注生财有术。<a href=https://t.zsxq.com/YfqJ23r>https://t.zsxq.com/YfqJ23r </a>&lt;a href=https://shimo.im/docs/v8P3tVYJTXjqC8DR/read?from=singlemessage&amp;isappinstalled=0&gt;小红书运营100条（个人账号+品牌账号） </a><br>2019-08-14<br>点赞数:152<br>评论区：<br>明白 : 就冲100条，先赞再看<br> 的得得得得得得的得得* : 很有心得 感谢分享<br> Cherish小姐 : 还是要有实操再结合看<br></p>
@@ -41,8 +56,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[这个网站值得看一下]]></title>
-        <id>https://zsxqshare.github.io/post/2</id>
-        <link href="https://zsxqshare.github.io/post/2">
+        <id>E:/fun/zsxq_blog/output/post/2/index.html</id>
+        <link href="E:/fun/zsxq_blog/output/post/2/index.html">
         </link>
         <updated>2019-08-13T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>亦仁 : 这个网站值得看一下。<br><br>在我眼里最厉害的人，不是会玩流量的人，不是会做产品的人，也不是商业变现厉害的人。<br><br>而是能攒出一个模型，这个模型可能是一个产品，可能是一个课程，也可能是一篇文章，也可能是一个付费社群。而且这个模型是一个套利模型，在一个能承受的回本周期内，丢一块钱流量进去，出来两块钱，甚至更多，投越多回来越多。<br><br>上面那个网站里面几乎所有的offer，都是这样的套利模型。<a href=https://www.affplus.com/>Search+and+Compare+CPA+Offers,+Affiliate+Programs+... </a><br>2019-08-14<br>点赞数:50<br>评论区：<br>lostxanadu : 有用<br> 二表叔夜观星像 : 仁大威武<br> ray : 估值多少？<br> 梦湖 : 一下午结合网站和亦仁的评价，看了六七遍才搞明白其中的模型指的是什么意思，真替自己的智商着急[捂脸][捂脸][捂脸]<br> watson : 依然没明白，求指教<br> 亦仁 : 套利模型<br> watson : 是说这里的offer都在套利么？<br></p>
@@ -50,8 +65,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[你打算在抖音卖货吗]]></title>
-        <id>https://zsxqshare.github.io/post/3</id>
-        <link href="https://zsxqshare.github.io/post/3">
+        <id>E:/fun/zsxq_blog/output/post/3/index.html</id>
+        <link href="E:/fun/zsxq_blog/output/post/3/index.html">
         </link>
         <updated>2019-08-12T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>阿彪 : 你打算在抖音卖货吗？<br><br>我们之前在今日头条打广告卖货，算是二类电商，这玩意就是平台收割广告主，广告主收割买主，尤其是今日头条那些中老年用户。<br><br>1688上20块的东西70-80的广告成本，卖129，毛利润20左右一件，还不包括退货拒收的。<br><br>一件拒收70-80的广告成本没了，来回15-20左右的快递费没了，成本将近100，需要卖5个左右的货，才能抵过来。<br><br>这玩意，到月底计算的时候才知道具体的拒收率。刚开始以为赚了，但是如果拒收率高几个点，算出来却是亏了。<br><br>而且这种二类电商，没有用户忠诚度，没有复购，没有品牌。根本不可持续，属于捞一票就走，而且还不确定真的能捞到。<br><br>你搞得要死，一件货赚20毛利润(假设你可以)，平台赚70/80。<br><br>在这个产业链中，还有另外一个有意思的角色，那就是广告代理商。你一上广告，就能接到各种平台的广告代理商推广电话。微博，广点通，凤凰网，以及其他中小流量平台的广告代理商。<br><br>你不懂广告，没关系。他们帮你推，他们有人群标签定位包。先上广告，给你来个人群包投放一下，让你也让广告账号先看点销量和尝点甜头。<br><br>广告代理商他们的目的就是不断的让你充广告费，你充越多，他们提成越多。平台方的算法引擎也是如此设计。大R玩家广告账号权重高，优先展示，引导你使劲充钱，提高权重。<br><br>广告代理商他们知道哪些可能卖的好，他们会推荐给你，这个没问题。但是他不会告诉你这个东西退货率可能很高。<br><br>广告跑起来，销量ROI看似都不错。你广告费大把大把充了，他提成大把大把拿了，留下那惨不忍睹的拒收损失，就得你自己兜着了。<br><br>要不他广告代理商要你干啥？直接自己去跑广告，货源1688拿就行了。你完全没有啥优势和门槛。<br><br>那所有的广告主都是亏的吗？早期玩家，大R玩家那肯定是有赚的，只是总体上赚钱的广告主是极少的。那些都是他们拿来吸引广告主的案例。平台和广告代理商都需要成功案例，但背后是成千上万你不知道的亏本而归的广告主。<br><br>这里面水可深着呢。<br>2019-08-13<br>点赞数:56<br>评论区：<br>飞牛 : 所以用抖音免费流量卖货有优势啊<br> 不许变懒的猫 : 长见识了[强]<br> 高涛杰 : 学习了彪哥<br> 高涛杰 : [捂脸]那么问题来了彪哥<br>
@@ -67,8 +82,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[99赞达成邀请]]></title>
-        <id>https://zsxqshare.github.io/post/4</id>
-        <link href="https://zsxqshare.github.io/post/4">
+        <id>E:/fun/zsxq_blog/output/post/4/index.html</id>
+        <link href="E:/fun/zsxq_blog/output/post/4/index.html">
         </link>
         <updated>2019-08-11T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>亦仁 : <br><br>99赞达成，邀请  带来今日之 。<br><br>梁勇是公众号 “Python爱好者社区”创始人，从技术公众号出发，但不止步于技术公众号，做了很多事情，本次分享是他这几年技术公众号运营与商业化的经历，诚意十足。<br><br>2017~2019 三年内，技术领域微信公众号从0到1，从1到N的增长，并实现变现。<br><br>第1阶段：从0粉丝到13万粉丝<br>第2阶段：从13万到30万粉丝<br>第3阶段：从30万到变现(2个月变现72W)<br><br>本次轻享图片较多，为保证阅读体验，用Word形式发布。  文章如对你有启发，请不要吝啬对作者的欣赏，真诚的分享值得每一位的感谢和鼓励。<br>2019-08-12<br>点赞数:116<br>评论区：<br>sitin : 勇哥很nice，接受过勇哥很多帮助，感谢勇哥带飞。<br> 梁勇 : 感谢亦仁老板邀请，大家有问题可以多多交流<br> ＿新年快快 : 现在技术类公众号是不是没啥机会了<br> 荔枝小一萌 : 为勇哥打call.<br> 小明 : 66<br></p>
@@ -76,8 +91,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[又到周五啦鱼丸又]]></title>
-        <id>https://zsxqshare.github.io/post/5</id>
-        <link href="https://zsxqshare.github.io/post/5">
+        <id>E:/fun/zsxq_blog/output/post/5/index.html</id>
+        <link href="E:/fun/zsxq_blog/output/post/5/index.html">
         </link>
         <updated>2019-08-08T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>鱼丸出面|亦仁助理 : 又到周五啦，鱼丸又来了。<br>射箭、套瓶子，大家玩过吧？今天要讲的这个项目，和这个有点像，是远在美国的一个小伙子参加单身派对时不经意发现的，2个创始人，6个员工，1年收入竟然达到了96,0000美元！约合人民币700多万，可以说是非常惊人了！<br><br>一，这个项目具体是什么呢？小伙子是怎么发现的？<br>项目就是扔！斧！头！<br><br>这个奇葩的想法源于，他参加了一个单身派对，派对上玩的喝酒游戏就是“扔斧头”，输了的喝啤酒，通过这个活动大家喝完了1000多瓶啤酒，小伙子觉得很有意思，去google了一下，发现加拿大有一个同样聪明的朋友已经开始商业化“扔斧头”的项目了，试探问时候可以加盟，答案是“NO”，于是他准备拉团队自己开始干。<br><br>二，这个项目启动难度大吗，前期需要做哪些准备？<br><br>①、人和钱：他找了他的好兄弟合伙，两个人各自出了3万美元，主要用来租场地、装修。 每个月房租5000美金，不过好处是，在租房的时候，房东给了他们两个月的免费时间，让他们可以快速的装修准备设备。<br><br>个创始人也很好的分工，主人公负责营销、销售和管理，另外一个创始人负责产品，也就是他们的体验店。<br><br><br>②、让“扔斧头”这个游戏更加有吸引力。这个游戏流程很简单，要让别人买单，需要往里加点料。<br><br>两个创始人为此特意去了旅游学校，并且去应聘漂流公司的导游，并且从导游的角度去看，如何让游客从中感受到快乐，怎么样可以让“扔斧头”的这个游戏体验更棒。（鱼丸看到这里，就觉得他们很靠谱了~~）<br><br><br>三，万事具备，就等开张<br>在正式开店前，他们用折扣的方式吸引了一批喜欢尝鲜的用户，过程中不断记录客户的反馈，针对一些地方继续做了优化，这一步鱼丸觉得很重要，线下店，确保开业那天的用户体验非常重要，好的开始是成功的一半。<br><br><br>由于小伙子有网络推广的经验，所以很自然的再facebook和instagram都开了一个推广账户，设置了50美金的推广预算，只等正式店开张。<br><br><br>另外打印了500份传单，到附近地区的企业里面，邀请他们来参加开幕派对。 <br><br>然后。。。 BOOM！第一天体验店就来了数百人！！接下来一切非常顺利，连着两周都预定满了。<br><br>鱼丸把他们的定价也贴出来，给大家参考：<br><br>周一到周四37美金；<br>周五和周日是39美金；<br>周六是42美金 <br><br>（我个人觉得这个定价一点都不高，事实也证明，因为他们定价低，所以用户爆满，导致员工忙不过来，哈哈，也算是甜蜜的烦恼吧~）<br><br>四.那这么多的人流，真的是自然需求，简单发发传单就来了吗？他到底还用了哪些手段？<br><br>鱼丸整理了小伙子用的方法:<br><br>①、 SEO。SEO是一个短期回报小，但是长期回报巨大的工作，斧头业务从SEO中获得了很多预定的订单。<br><br>关于SEO具体的做法，鱼丸也发出来，给大家参考~~<br><br>第一步：确定市场上需要什么。事实上，很少有人会去搜索“扔斧头”这个关键词，但是另外一个事实，很多人想找一些有意思的活动来组织团建或者周末娱乐。 所以，他要做的事情，就是将“扔斧头”这个项目推荐给那些对此可能感兴趣的人。 <br><br>第二步：创建能与该市场产生共鸣的内容。 想外出活动的人可能会搜索哪些关键词？有几个例子“冬天可以做的娱乐”、“家庭聚会可以做的事情”、“下雨天有什么活动”、“本地温泉”、“水疗中心”。。。名单可以非常多，内容也不仅限于博客文章，也可以包括视频、电子书等任何人们可能想到的内容形式。 <br><br>第三步：找媒体做PR。找到那些喜欢你这类主题并且愿意写故事的记者，目前主人公的项目已经在BBC，Mountain Life，Readers Digest，The Knot，Trivago，Seattle Met，Newsweek等数十家网站上发布过文章。<br><br>典型的故事就是主人公在BBC的采访中告诉他们想把斧头扔成下一个奥林匹克运动，记者当然爱这样的故事了，对吧！所以，发挥创意，找到一个能讲故事的点，记者免费都愿意为你报导。<br><br>2. PPC广告<br><br>在谷歌创建了广告账户，按照购买意图来进行投放，一开始ROI并不好，但是随着订单数增加，相关度越来越高，投放数据也越来越好。 <br><br>在SEO和PPC上值得投入足够的精力，因为如果你发现某一些关键词在广告投放中表现很好，就可以通过SEO的方法来获取该关键词的免费流量，这个方法虽然花的时间比较久，但回报巨大。 <br><br>3. 线下广告<br><br>每年散发出去20000份宣传小册子，事实证明这是效果最好的三个渠道之一。<br><br>有人说，线上的营销效果要远远好于线下，传统营销已死。 但小伙子用事实证明了，还是看谁用，当然传统的广告渠道在线下店这个项目上可以玩的余地和空间比较大。<br><br>还包括与当地广告电台合作，提供一些免费体验名额，给电台做活动，效果也不错。<br><br>同时，有一个很重要的心得主人公想与大家分享<br><br>“当你开始一项新的创业项目，你会因为新鲜感而获取到很多额外的流量，很多人想过来看看了解下。但是，这种流量很快就会消失，利用好它们但是不要依赖于它们。”<br>这个和亦仁老板前两天分享的观点不谋而合。<br><br>五，收入很多，净利润到底如何？<br><br>目前订单一半是通过自己的网站来的订单，一半是通过合作伙伴，类似于TripAdvisor，Expedia，GetYourGuide，Veltra，Airbnb等带过来的。 <br><br>在业务开始的第二个月，其实就开始赚钱了， 团队对业务的增长也很满意，赚的每一分钱都又用到了业务中去。 后面为了扩大业务，又拿到了一些融资，员工人数也增加到了20个。<br><br>有很多人会关心净利率有多少，这个不太好说，由于主人公团队将赚到的钱又投入到了业务中，所以目前的净利率大概在12%左右。 <br><br>在可以赚钱的时候，把所有的资源都投入进去，迅速规模化！<br><br>当然也有一些忠告：<br><br>养成制定具体战略、目标并回顾的习惯，不是说给投资人看的几十页的BP，而是两三页的文件，清楚的列出来今年的战略、目标和策略。 <br><br>很多人热情满满想要创业，但是真正开始做事情的时候，却会渐渐偏离目标。所以在开始的时候写一个商业计划书，并不断回顾纠正，确保自己走在正确的道路上。 <br><br>小伙子最后说了一句：“免费的是最贵的。 如果有人要给你免费的建议，那么你要确保这条消息的来源是否可靠。<br><br>每个人对这句话的理解都不一样，留给大家仔细品味吧~~<br><br>今天的分享就到这啦，喜欢看类似的故事就点赞告诉鱼丸吧~<br>2019-08-09<img src="https://images.zsxq.com/FuAA0nX5KLc_O8StjYB9jCvI14-t?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&amp;e=1906272000&amp;token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:-ZXuF1GsI8PTNKvFL1Dpm-LRDjo=" alt=""><br>点赞数:52<br>评论区：<br>不许变懒的猫 : 喜欢看这种接地气、真实的案例～给鱼丸比心❤️<br> 阿澜 : 很好奇啥是扔斧头。<br> 亦仁 : 射箭玩过没，这个项目是给你一个靶，再给你几把斧头，一段距离外对着靶扔斧头，看能不能砸中靶。<br> meek : 谢谢鱼丸分享<br> 鱼丸出面|亦仁助理 : 👻👻<br> 饭 : 丢真斧头，看了视频有点害怕，又有点刺激，想玩又不敢玩😂😂<br>
@@ -86,8 +101,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[很基本的一些问题而]]></title>
-        <id>https://zsxqshare.github.io/post/53</id>
-        <link href="https://zsxqshare.github.io/post/53">
+        <id>E:/fun/zsxq_blog/output/post/53/index.html</id>
+        <link href="E:/fun/zsxq_blog/output/post/53/index.html">
         </link>
         <updated>2019-08-08T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>【技术人成长】公众号 : <br>很基本的一些问题而已，没有高深的😂。<a href=https://mp.weixin.qq.com/s/z9fPrRV9YB5DdGtRYhdxjg>程序员的十大思维误区 </a><br>2019-08-09<br>点赞数:33<br>评论区：<br>Caoz : 确实很基础，但新人经常会犯<br> 大冰 : 你提出的很多问题，都是技术可以解决的，我们做技术的就是拿技术解决问题，当然也包括内部问题<br> 【技术人成长】公众号 : 嗯嗯，是的。<br> 【技术人成长】公众号 : 感谢曹大赞赏[抱拳]<br></p>
@@ -95,20 +110,11 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[153原文]]></title>
-        <id>https://zsxqshare.github.io/post/202</id>
-        <link href="https://zsxqshare.github.io/post/202">
+        <id>E:/fun/zsxq_blog/output/post/202/index.html</id>
+        <link href="E:/fun/zsxq_blog/output/post/202/index.html">
         </link>
         <updated>2019-08-07T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>Auroraaa : 153·原文👉🏻 <a href=https://t.zsxq.com/RNjEyRR>https://t.zsxq.com/RNjEyRR </a><br>2019-08-08<img src="https://images.zsxq.com/FlxWxDunNFIooYS5JVeS8-bWOcS-?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&amp;e=1906272000&amp;token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:_yi764tb1gCCU5gthYVzbc_49Z0=" alt=""><br>点赞数:8<br></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个好的社会应该]]></title>
-        <id>https://zsxqshare.github.io/post/54</id>
-        <link href="https://zsxqshare.github.io/post/54">
-        </link>
-        <updated>2019-08-07T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>黄岛主 : 一个好的社会，应该是：禁止黑色，鼓励白色；对于灰色，保持一定宽容，但是抬高他的成本，限制他的发展。<br>补一句，曹大的星球呆了快一年，至今没有看到过贷款广告，顿生敬意。想起了一句话：看一个人，不要看他说什么，而要看他说完之后去做什么。<br><br><a href=https://mp.weixin.qq.com/s/27KCbQL-mSIfV7VT1Bxekg>少年借贷，则中国强+|+衣公子 </a><br>2019-08-08<br>点赞数:75<br>评论区：<br>大冰 : 这样的公众号和作者 值得我们坚守<br> 一文 : 好文！<br></p>
 ]]></content>
     </entry>
 </feed>
