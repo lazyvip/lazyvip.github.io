@@ -1,1 +1,12 @@
-# [苏生不惑的博客](https://mp.weixin.qq.com/s/8_Us3Qe7HRsyMYvFWNHF4A)
+![logo](https://docsify.js.org/_media/icon.svg)
+
+# 懒人找资源
+
+> 一份测试用的手册.
+
+* 测试1
+* 懒人测试2
+* 懒人测试3
+
+[懒人资源网]()
+[懒人导航]()
