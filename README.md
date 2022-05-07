@@ -1,4 +1,6 @@
-# 懒人找资源-资源分享页
+# [懒人找资源-资源分享页](/README.md)
+
+[![访问量](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Flazyso.vercel.app&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 左侧可以搜索关键词
 
@@ -43,6 +45,8 @@ https://lazyso.vercel.app/#/
 ## [8.盘搜资源（4168份）](source/8.盘搜资源.md)
 
 ## [9.考研教育资源（315份）](source/9.考研教育资源.md)
+
+## [10.盘搜资源2](source/10.盘搜资源2.md)
 
 
 
