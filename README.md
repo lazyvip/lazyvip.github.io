@@ -10,23 +10,20 @@
 https://lazyso.vercel.app/#/
 ```
 
-<details>
-  <summary>点击展开文档介绍</summary>
-  <p>本文档为 公众号懒人找资源 为粉丝爬取制作的资源分享页</p>
-</details>
-
-# 资源分享
+# 
 
 <details>
   <summary>点击查看介绍</summary>
   <p> 因为资源太多，所以加载速度比较慢，请耐心等候~ <br>手机端访问可以左右滑动查看表格。</p>
 </details>
 
+
 夸克网盘新用户建议先用下面链接注册保存，会送1T空间：
 
-[夸克网盘](https://pan.quark.cn/s/095afa3afc7e)
+[夸克网盘新用户免费1T空间](https://pan.quark.cn/s/095afa3afc7e)
 
 
+# 资源分享
 
 ## [1.电视剧（1482部）](source/1.电视剧.md)
 
