@@ -18,8 +18,6 @@ https://lazyso.vercel.app/#/
   <summary>点击查看介绍</summary>
   <p> 因为资源太多，所以加载速度比较慢，请耐心等候~ <br>手机端访问可以左右滑动查看表格。</p>
 </details>
-安利一个导购站点：[优惠券中心](http://mkgdx.yhzu.cn/)
-
 夸克网盘新用户建议先用下面链接注册保存，会送1T空间：
 
 [夸克网盘新用户免费1T空间](https://pan.quark.cn/s/095afa3afc7e)
