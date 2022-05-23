@@ -66,3 +66,9 @@ https://lazyso.vercel.app/#/
 
 - 博客内容
   - [懒人找资源](http://lazymovie.me/)
+
+
+
+
+
+<div data-block-id="bf688fb5-69ec-4d09-84f0-a4ec9d1056f1" class="notion-selectable notion-embed-block" style="width: 400px; max-width: 520px; align-self: center; margin-top: 4px; margin-bottom: 4px;"><div contenteditable="false" data-content-editable-void="true" embed-ghost=""><div style="display: flex;"><div class="notion-cursor-default" style="position: relative; overflow: hidden; flex-grow: 1;"><div style="position: relative;"><div style="position: relative;"><div style="display: block; pointer-events: auto; width: 100%;"><div style="position: relative; display: flex; justify-content: center; width: 100%; min-height: 100px; height: 320px;"><div style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border-radius: 1px;"><div style="height: 100%; width: 100%;"><div style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border-radius: 1px; pointer-events: auto;"><iframe src="https://notion.pet/view/index.html?q=82afc00a624563e002323a336fa9b285.16db756f628af1df03fd62f56385b2b9" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div></div></div></div></div></div></div></div></div></div></div>
