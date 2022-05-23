@@ -23,6 +23,16 @@ https://lazyso.vercel.app/#/
 [夸克网盘新用户免费1T空间](https://pan.quark.cn/s/095afa3afc7e)
 
 
+
+## 最新分享
+
+220523分享
+
+- [软件打包分享](source/13.软件打包.md)
+
+
+
+
 # 资源分享
 
 ## [1.电视剧（1482部）](source/1.电视剧.md)
