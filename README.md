@@ -8,11 +8,18 @@
 
 ### 左侧可以搜索关键词
 
-建议复制到浏览器访问收藏：
 
-```
-https://lazyso.vercel.app/#/
-```
+
+## 最新分享
+
+- 220616分享
+  - [上千份电子书](/source/14.电子书分享)
+- 220523分享
+  - [软件打包分享](source/13.软件打包.md)
+
+***
+
+
 
 <details>
   <summary>点击查看介绍</summary>
@@ -23,12 +30,6 @@ https://lazyso.vercel.app/#/
 [夸克网盘新用户免费1T空间](https://pan.quark.cn/s/095afa3afc7e)
 
 
-
-## 最新分享
-
-220523分享
-
-- ### [软件打包分享](source/13.软件打包.md)
 
 
 
