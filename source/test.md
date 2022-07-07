@@ -1,19 +1,20 @@
-```
-:fas fa-home fa-fw:
-:fas fa-th-list fa-fw red:
-:fab fa-linux fa-fw blue:
-:fab fa-aws fa-fw orange:
-```
-
-:fas fa-home fa-fw:
-:fas fa-th-list fa-fw red:
-:fab fa-linux fa-fw blue:
-:fab fa-aws fa-fw orange:
+*测试*
 
 
 
-这个是真的吗？<i class="fa fa-weixin"></i>
+<a href="https://api.day.app/3QKo5ghxkZZxWurUnyDXa4/">
+
+https://api.day.app/3QKo5ghxkZZxWurUnyDXa4/
 
 
 
-<i class="fa fa-apple"></i>
+
+
+<img class="aligncenter" src="https://api.vvhan.com/api/wbhot" alt="图片描述" /></p>
+
+
+
+
+
+ <div style="text-align: center;">         <img src="https://v2.alapi.cn/api/zaobao?token=3AmsJAaohHd4Oywf&format=image" alt="每日早报" width="100%">     </div>
+
