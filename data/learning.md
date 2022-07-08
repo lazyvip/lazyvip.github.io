@@ -146,7 +146,7 @@
 - [一看就会的萌新彩铅视频课程](#一看就会的萌新彩铅视频课程)
 - [巨量专业线上社群视频课程](#巨量专业线上社群视频课程)
 - [十节课带你深入情感吸引力](#十节课带你深入情感吸引力)
-- [[Photoshop插件] AI智能修图 Retouch4me 1.0 八合一](#Photoshop插件AI智能修图 Retouch4me 1.0 八合一)
+- [[Photoshop插件] AI智能修图 Retouch4me 1.0 八合一](#Photoshop插件AI智能修图Retouch4me 1.0 八合一)
 - [即学即用的体制内情商大课](#即学即用的体制内情商大课)
 - [小白一学就会的短视频剪辑课](#小白一学就会的短视频剪辑课)
 - [从零深度学习模型入门与实战](#从零深度学习模型入门与实战)
@@ -2873,7 +2873,7 @@
 [🔙返回目录](#目录)
 ***
 
-### Photoshop插件AI智能修图 Retouch4me 1.0 八合一
+### Photoshop插件AI智能修图Retouch4me 1.0 八合一
 
 <details>
 <summary>点击查看：[Photoshop插件] AI智能修图 Retouch4me 1.0 八合一</summary>
