@@ -7,10 +7,12 @@
 
 
 <details>
-  <summary>免责声明</summary>
-  <p> - 此资源由本站收集整理于网络，如有侵权，请联系 小懒人微信 删除处理。</p>
-    <img src="https://api2.mubu.com/v3/document_image/a51a82be-7e91-4b8e-b3d9-c00237de54c9-5190692.jpg" data-origin="https://api2.mubu.com/v3/document_image/a51a82be-7e91-4b8e-b3d9-c00237de54c9-5190692.jpg" alt="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box; max-width: 100%;">
+  <summary>使用介绍</summary>
+  <p> - 建议用浏览器查看，微信无法查看课程图片</p>
+    <p><a href="https://mp.weixin.qq.com/s/SY64wPURyVk3Di5BhTJItA">公众号文章介绍！</a></p>
+    <p>- 阅读公众号号时，麻烦点击一下文末或者文中的小卡片广告，点击一次即可返回。</p>
 </details>
+
 
 ## 目录
 
@@ -6610,3 +6612,11 @@ Node.js从零开发web server博客项目.前端晋升全栈工程师必备<br/>
 [🔙返回目录](#目录)
 
 ***
+
+
+
+<details>
+  <summary>免责声明</summary>
+  <p> - 此资源由本站收集整理于网络，如有侵权，请联系 小懒人微信 删除处理。</p>
+    <img src="https://api2.mubu.com/v3/document_image/a51a82be-7e91-4b8e-b3d9-c00237de54c9-5190692.jpg" data-origin="https://api2.mubu.com/v3/document_image/a51a82be-7e91-4b8e-b3d9-c00237de54c9-5190692.jpg" alt="" style="-webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-size-adjust: none; box-sizing: border-box; max-width: 100%;">
+</details>
