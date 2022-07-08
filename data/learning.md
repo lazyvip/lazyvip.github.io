@@ -1,6 +1,8 @@
 # 课程资源分享
 
-**220708更新**
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Flazyso.vercel.app&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23D9B1B1&title=%E8%AE%BF%E9%97%AE%E9%87%8F&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 
 ## 目录
 
