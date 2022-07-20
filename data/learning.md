@@ -16,6 +16,23 @@
 
 ## 目录
 
+2022-07-20更新：
+
+- [樊登读书会2022年合集（更新至7月16日）](#樊登读书会2022年合集（更新至7月16日）)
+- [带你0基础实操视频上镜课程](#带你0基础实操视频上镜课程)
+- [华为认证云计算容器高级工程师教程](#华为认证云计算容器高级工程师教程)
+- [斑马AI 网课，含语文、英语、思维【已完结】](#斑马AI网课含语文英语思维已完结)
+- [前端原生项目尚优选视频课程](#前端原生项目尚优选视频课程)
+- [智能机器人开发的神兵利器ROS](#智能机器人开发的神兵利器ROS)
+- [在家从0到1从小白到网棵讲师](#在家从0到1从小白到网棵讲师)
+- [和老外学写一篇地道的SCI论文](#和老外学写一篇地道的SCI论文)
+- [小白0基础进击外贸达人30节](#小白0基础进击外贸达人30节)
+- [2022元宇宙科普视频课程](#2022元宇宙科普视频课程)
+
+
+
+2022-07-08更新：
+
 - [包装平面设计与结构实战教学](#包装平面设计与结构实战教学)
 - [0-1系统学习跨境电商基础课程](#0-1系统学习跨境电商基础课程)
 - [零基础学流行声乐唱歌课程](#零基础学流行声乐唱歌课程)
@@ -316,6 +333,205 @@
 - [用深度理性看清世界的本质](#用深度理性看清世界的本质)
 - [乌鸦救赎连招恋爱聊天法课程](#乌鸦救赎连招恋爱聊天法课程)
 - [3天从菜鸟成为超级带货抖主播](#3天从菜鸟成为超级带货抖主播)
+
+
+
+***
+
+### 樊登读书会2022年合集（更新至7月16日）
+
+<details>
+<summary>点击查看：樊登读书会2022年合集（更新至7月16日）</summary>
+  <p><article class="article-content">
+<p><span style="font-size: medium;">樊登读书会2022年资源为本人自己下载并上传，无任何水印和广告，已更新至4月2日，将来将持续更新。</span></p>
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/01/2022011602382633.png" rel="box"><img alt="" class="aligncenter size-full wp-image-28664" src="https://52sharing.cn/wp-content/uploads/2022/01/2022011602382633.png"/></a> <a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/01/2022011602382855.png" rel="box"><img alt="" class="aligncenter size-full wp-image-28665" src="https://52sharing.cn/wp-content/uploads/2022/01/2022011602382855.png"/></a><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/01/2022011602382855.png" rel="box"><img alt="" class="aligncenter size-full wp-image-28665" src="https://52sharing.cn/wp-content/uploads/2022/01/2022011602382855.png"/></a></p>
+<h2>下载地址</h2>
+<p></p><div style="border:1px dashed #F60; padding:10px; margin:10px 0; line-height:200%;  background-color:#FFF4FF; overflow:hidden; clear:both;"><!--wechatfans start--><span style="font-size: medium;"><br/>
+「2022年樊登读书会」</span><a href="https://www.aliyundrive.com/s/1JBjZR1sfyg" rel="nofollow noopener noreferrer" target="_blank">https://www.aliyundrive.com/s/1JBjZR1sfyg</a>
+<p><span style="font-size: 12pt;">【樊登2013年-2022年全套】<a href="https://www.aliyundrive.com/s/P7SB3f8QbQy" rel="noopener noreferrer" target="_blank">https://www.aliyundrive.com/s/P7SB3f8QbQy </a></span><!--wechatfans end--></p></div>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 带你0基础实操视频上镜课程
+
+<details>
+<summary>点击查看：带你0基础实操视频上镜课程</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/07/95645-1657964998457769.png" rel="box"><img alt="2.png" src="https://52sharing.cn/wp-content/uploads/2022/07/95645-1657964998457769.png" title="1657964998457769.png"/></a></p>
+<h6>课程介绍</h6>
+<p>全网播放量2亿+视频变现高手、知名歌手蔡琴的公开表达和上镜顾问——章玮带来14堂0基础、可复制的“视频上镜实训课”，三大模块讲透爆款套路、镜头表演和涨粉变现，演出你的吸金爆款，从此收入源源不断！</p>
+<h2>学习地址</h2>
+<p></p><div style="border:1px dashed #F60; padding:10px; margin:10px 0; line-height:200%;  background-color:#FFF4FF; overflow:hidden; clear:both;"><!--wechatfans start--><a class="dl" href="https://www.aliyundrive.com/s/DfE2rxNuAqu" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a><!--wechatfans end--></div>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 华为认证云计算容器高级工程师教程
+
+<details>
+<summary>点击查看：华为认证云计算容器高级工程师教程</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/07/338a8-1657797038338190.png" rel="box"><img alt="1.png" src="https://52sharing.cn/wp-content/uploads/2022/07/338a8-1657797038338190.png" title="1657797038338190.png"/></a></p>
+<h6>课程介绍</h6>
+<p>课程内容可以作为华为云计算HCIP和HCIE级别的扩展课程，课程内容包括了容器技术的发展，容器镜像结构，容器网络、存储以及底层技术。课程还介绍了Pass和企业如何进行IT云化转型。课程的后半段内容集中在了Kubernetes架构技术，包括Deployment管理与使用，Pod管理与使用，Kubernetes网络模型，Kubernetes服务质量，Kubernetes_Dashboard，Helm实验演示等等技术，都是可以直接应用在企业中，快速的提示企业网络架构性能。</p>
+<h2>学习地址</h2>
+<p></p><div style="border:1px dashed #F60; padding:10px; margin:10px 0; line-height:200%;  background-color:#FFF4FF; overflow:hidden; clear:both;"><!--wechatfans start--><a class="dl" href="https://www.aliyundrive.com/s/axHkkySCbCm" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a><!--wechatfans end--></div><br/>
+
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+[🔙返回目录](#目录)
+
+***
+
+### 斑马AI 网课含语文英语思维已完结
+
+<details>
+<summary>点击查看：斑马AI 网课，含语文、英语、思维【已完结】</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/07/2022071513245737.jpg" rel="box"><img alt="" class="aligncenter size-full wp-image-32453" src="https://52sharing.cn/wp-content/uploads/2022/07/2022071513245737.jpg"/></a></p>
+<p>非常适合给孩子看的课程。</p>
+<h2>下载地址</h2>
+<p></p><div style="border:1px dashed #F60; padding:10px; margin:10px 0; line-height:200%;  background-color:#FFF4FF; overflow:hidden; clear:both;"><!--wechatfans start-->链接: <a href="https://pan.baidu.com/s/1cZCnBU1SQnXvac5Xu4P9tw?pwd=3jdy" rel="nofollow">https://pan.baidu.com/s/1cZCnBU1SQnXvac5Xu4P9tw?pwd=3jdy</a>
+<p>提取码: 3jdy<!--wechatfans end--></p></div>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 前端原生项目尚优选视频课程
+
+<details>
+<summary>点击查看：前端原生项目尚优选视频课程</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/07/ccfcb-1657720906620716.png" rel="box"><img alt="1.png" src="https://52sharing.cn/wp-content/uploads/2022/07/ccfcb-1657720906620716.png" title="1657720906620716.png"/></a></p>
+<h6>课程介绍</h6>
+<p>尚优选是一款HTML、CSS、JavaScript技术综合应用的商城项目，适合初学前端的小伙伴夯实基础，积累项目经验。项目具有很强的实用性，既是对前端基础知识的梳理和整合，同时为后续更多主流技术提供了实际应用的练兵场。项目技术栈包含：定义HTML页面结构、CSS样式的属性定义，Less中混合器的创建和使用规则、嵌套语法、父级引用等，以及JavaScript中的循环、分支、函数、DOM、BOM、数组、对象等。</p>
+<h2>学习地址</h2>
+<p></p><div style="border:1px dashed #F60; padding:10px; margin:10px 0; line-height:200%;  background-color:#FFF4FF; overflow:hidden; clear:both;"><!--wechatfans start--><a class="dl" href="https://www.aliyundrive.com/s/JYgRS2UKAgp" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a><!--wechatfans end--></div>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 智能机器人开发的神兵利器ROS
+
+<details>
+<summary>点击查看：智能机器人开发的神兵利器ROS</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/07/784d0-1657625834135644.png" rel="box"><img alt="1.png" src="https://52sharing.cn/wp-content/uploads/2022/07/784d0-1657625834135644.png" title="1657625834135644.png"/></a></p>
+<h6>课程介绍</h6>
+<p>机械臂是机器人中运用最广泛、成熟的一种，主要应用于工厂自动化环境。机械臂经过几十年的发展，技术相对成熟，包括运动学正逆解、运动轨迹规划、碰撞检测算法等。随着协作机器人的发展，机械臂也逐渐开始走入人们的生活。ROS提供了不少针对机械臂的功能包，这些功能包集成为一个单独的ROS软件——MoveIt！</p>
+<h2>学习地址</h2>
+<p></p><div style="border:1px dashed #F60; padding:10px; margin:10px 0; line-height:200%;  background-color:#FFF4FF; overflow:hidden; clear:both;"><!--wechatfans start--><a class="dl" href="https://www.aliyundrive.com/s/e58LkJrBsAv" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a><!--wechatfans end--></div>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 在家从0到1从小白到网棵讲师
+
+<details>
+<summary>点击查看：在家从0到1从小白到网棵讲师</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/07/cb072-1657625856812272.png" rel="box"><img alt="2.png" src="https://52sharing.cn/wp-content/uploads/2022/07/cb072-1657625856812272.png" title="1657625856812272.png"/></a></p>
+<h6>课程介绍</h6>
+<p>最靠谱的副业赚銭棵——课程策划、内容制作、课程销售一站式学习！找准定位：如何利用自身优势，敲开知识付费的大门，网课棵的生存法则，死磕一个细分领域，爆款课设计分析，好的设计让人过目不忘，零基础、也能学会做网棵，让副业赚銭更简单。</p>
+<h2>学习地址</h2>
+<p></p><div style="border:1px dashed #F60; padding:10px; margin:10px 0; line-height:200%;  background-color:#FFF4FF; overflow:hidden; clear:both;"><!--wechatfans start--><a class="dl" href="https://www.aliyundrive.com/s/RqjG73btGgi" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a><!--wechatfans end--></div>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 和老外学写一篇地道的SCI论文
+
+<details>
+<summary>点击查看：和老外学写一篇地道的SCI论文</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/07/6ad3c-1657444421800287.png" rel="box"><img alt="1.png" src="https://52sharing.cn/wp-content/uploads/2022/07/6ad3c-1657444421800287.png" title="1657444421800287.png"/></a></p>
+<h6>课程介绍</h6>
+<p>本系列课程原名：“scientific writing for publication”，为弗雷赛斯润色编辑部主编AliA专门为中国科研者录制，AliA来自UK，有八年润色中国科研者论文经验，对国人常犯的一些语法、英语错误非常熟悉。</p>
+<p>为了让学员更容易听懂，主编专门将语速降低，使用更简单的词语，学员可以试听几节课，跟着PPT，相信不会有过多障碍，所以，这也是非常好的听力教材。</p>
+<h2>学习地址</h2>
+<p></p><div style="border:1px dashed #F60; padding:10px; margin:10px 0; line-height:200%;  background-color:#FFF4FF; overflow:hidden; clear:both;"><!--wechatfans start--><a class="dl" href="https://www.aliyundrive.com/s/6Dimb2E58JG" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a><!--wechatfans end--></div>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 小白0基础进击外贸达人30节
+
+<details>
+<summary>点击查看：小白0基础进击外贸达人30节</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/07/a8de2-1657279240272118.png" rel="box"><img alt="1.png" src="https://52sharing.cn/wp-content/uploads/2022/07/a8de2-1657279240272118.png" title="1657279240272118.png"/></a></p>
+<h6>课程介绍</h6>
+<p>课程包括出口报关流程：出口报关的单证、细节与注意事项、海运保险以及出口报关详细过程与节点等。包括：出口退税介绍、退税所需要文件单证、文件单证申请注意事项以及出口退税计算。集装箱种类、干活集装箱柜门信息、集装箱尺寸、重量级体积、计算产品毛重和体积、以及计算可以装多少。FOB价格计算：FOB责任范围、费用明细、价格计算方法以及计算题：我们的产品FOB价格是多少。CIF责任范围、费用明细、价格计算方法、CIF和FOB价格的区别、计算我们的产品CIF价格是多少以及CIF收款方式，DDP价格计算：DDP责任范围、费用明细、价格计算方法、DDP和CIF,fob价格区别，计算我们产品DDP价格多少以及DDP收款方式。</p>
+<h2>学习地址</h2>
+<p><a class="dl" href="https://www.aliyundrive.com/s/YMSWPgzxEhe" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a><br/>
+ </p>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 2022元宇宙科普视频课程
+
+<details>
+<summary>点击查看：2022元宇宙科普视频课程</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/07/3daaa-1657240702168167.png" rel="box"><img alt="1.png" src="https://52sharing.cn/wp-content/uploads/2022/07/3daaa-1657240702168167.png" title="1657240702168167.png"/></a></p>
+<h6>课程介绍</h6>
+<p>门课让你系统了解元宇宙，先人一步让你站在风口上！我们正处于互联网下一章的开端，这也是我们公司的下一章。”Meta创始人扎克伯格曾表示，“我们希望在未来十年之内，元宇宙覆盖10亿人、承载数千亿美元的数字业务，并为数百万创作者和开发者提供工作支持。</p>
+<h2>学习地址</h2>
+<p></p><div style="border:1px dashed #F60; padding:10px; margin:10px 0; line-height:200%;  background-color:#FFF4FF; overflow:hidden; clear:both;"><!--wechatfans start--><a class="dl" href="https://www.aliyundrive.com/s/ci4nfmc2x4L" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a><!--wechatfans end--></div>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+
+***
 
 
 
