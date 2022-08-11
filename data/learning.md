@@ -16,6 +16,23 @@
 
 ## 目录
 
+2022-8-11更新：
+
+- [只讲你学得会的爆文写作训练营](#只讲你学得会的爆文写作训练营)
+- [大厂Python深度学习视频教程](#大厂Python深度学习视频教程)
+- [从商业到内容到转化一站式学](#从商业到内容到转化一站式学)
+- [iPad插画半厚涂暑假特训课程](#iPad插画半厚涂暑假特训课程)
+- [剪辑实操+实操手册+内训课](#剪辑实操+实操手册+内训课)
+- [包装设计实战案例教学课程](#包装设计实战案例教学课程)
+- [绝对OK的私教销售视频课程](#绝对OK的私教销售视频课程)
+- [从剪辑到运营教你做国学号](#从剪辑到运营教你做国学号)
+- [28天瘦10斤极速减脂计划](#28天瘦10斤极速减脂计划)
+- [副业思维12讲了解财富的本质](#副业思维12讲了解财富的本质)
+- [进阶影视解说陪跑训练营](#进阶影视解说陪跑训练营)
+- [拳击基础练习技巧视频课程](#拳击基础练习技巧视频课程)
+- [风光摄影实战教程全能篇](#风光摄影实战教程全能篇)
+- [系统学习影视解说剪辑运营](#系统学习影视解说剪辑运营)
+
 2022-07-20更新：
 
 - [樊登读书会2022年合集（更新至7月16日）](#樊登读书会2022年合集（更新至7月16日）)
@@ -337,6 +354,282 @@
 
 
 ***
+
+### 只讲你学得会的爆文写作训练营
+
+<details>
+<summary>点击查看：只讲你学得会的爆文写作训练营</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/08/4d569-1659966326129993.png" rel="box"><img alt="2.png" src="https://52sharing.cn/wp-content/uploads/2022/08/4d569-1659966326129993.png" title="1659966326129993.png"/></a></p>
+<h6>课程介绍</h6>
+<p>零基础对新媒体零基础的学生党小希望打造自己的优势特长普通上班族想要开拓一门副业为自己加薪求职待业人群希望3个月内转行互联网行业想打造自己的个人品牌希望通过新媒体手段获客的人群。</p>
+<h6>学习地址</h6>
+<a class="dl" href="https://www.aliyundrive.com/s/UMPY66dCEcA" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 大厂Python深度学习视频教程
+
+<details>
+<summary>点击查看：大厂Python深度学习视频教程</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/08/922ef-1659888383190263.png" rel="box"><img alt="1.png" src="https://52sharing.cn/wp-content/uploads/2022/08/922ef-1659888383190263.png" title="1659888383190263.png"/></a></p>
+<h6>课程介绍</h6>
+<p>宝藏级的Python深度学习到迁移学习课程实战，课程将以最快的速度帮助同学们构建整体的深度学习与网络架构，课程内容包括了Mask-Rcnn开源项目，FPN网络架构实现解读，RorAlign操作，RoiPooling层解读，DetectionTarget层的作用，迁移学习策略，物体检测概述，RPN网络架构等非常有用的内容。</p>
+<h2>学习地址</h2>
+<p></p><div style="border:1px dashed #F60; padding:10px; margin:10px 0; line-height:200%;  background-color:#FFF4FF; overflow:hidden; clear:both;"><!--wechatfans start--><a class="dl" href="https://www.aliyundrive.com/s/bmsBvMAQBAn" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a><!--wechatfans end--></div><br/>
+
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 从商业到内容到转化一站式学
+
+<details>
+<summary>点击查看：从商业到内容到转化一站式学</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/08/9e916-1659783655391204.png" rel="box"><img alt="1.png" src="https://52sharing.cn/wp-content/uploads/2022/08/9e916-1659783655391204.png" title="1659783655391204.png"/></a></p>
+<h6>课程介绍</h6>
+<p>商业IP孵化训练营，从商业到内容到转化一站式学，课程来自王杨名老师的商业IP孵化训练营，价值5980元。主要内容包括：定位、选题和内容方向、内容创作准备、创作及拍摄、剪辑、运营、转化等。搭建完整的短视频观，才是做好商业IP的正确方法。</p>
+<h2>学习地址</h2>
+<a class="dl" href="https://www.aliyundrive.com/s/NZZNUFs7hdm" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### iPad插画半厚涂暑假特训课程
+
+<details>
+<summary>点击查看：iPad插画半厚涂暑假特训课程</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/08/d91e0-1659783675420334.png" rel="box"><img alt="2.png" src="https://52sharing.cn/wp-content/uploads/2022/08/d91e0-1659783675420334.png" title="1659783675420334.png"/></a></p>
+<h6>课程介绍</h6>
+<p>随着IPad软件的升级换代,移动端绘画越来越成熟,本课程以IPad为载体,教大家从基础一步步成为大佬,知名插画师授课,帮助同学快速成长,让同学们离职业插画师更进一步。</p>
+<h2>学习地址</h2>
+<a class="dl" href="https://www.aliyundrive.com/s/4Ngtjxmb2ZE" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 剪辑实操+实操手册+内训课
+
+<details>
+<summary>点击查看：剪辑实操+实操手册+内训课</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/08/95e29-1659459848542070.png" rel="box"><img alt="1.png" src="https://52sharing.cn/wp-content/uploads/2022/08/95e29-1659459848542070.png" title="1659459848542070.png"/></a></p>
+<h6>课程介绍</h6>
+<p>课程从基础的剪辑手法到账号的注册、到领域的选择、再到版权规避、核心运营知识点全面讲解。从当下自媒体最大的一波红利机会在哪里开始讲起，不拍摄不直播、不开窗不挂货、不接商单，仅仅除了这五个变现模式以外，我们选择最简单的靠内容变现，靠内容赚钱的商业模式逻辑，教你做中视频内容核心，分享中视频常用的四大工具，视频内容文案的核心、内容剪辑核心、内容标题核心、内容话题核心、视频避坑以及建议、自媒体账号注册和中视频发布流程，教你选择中视频领域应该如何选择，教你做中视频所需要的素材来源以及剪辑标准，最后是中视频单价的播放秘密等。</p>
+<h2>学习地址</h2>
+<a class="dl" href="https://www.aliyundrive.com/s/tySVR8ABtvD" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 包装设计实战案例教学课程
+
+<details>
+<summary>点击查看：包装设计实战案例教学课程</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/08/98d49-1659341901867543.png" rel="box"><img alt="1.png" src="https://52sharing.cn/wp-content/uploads/2022/08/98d49-1659341901867543.png" title="1659341901867543.png"/></a></p>
+<h6>课程介绍</h6>
+<p>本课程是平面设计与结构设计的有机结合，主要讲解平面设计中包装设计的专业知识，是广告设计专业的延伸。学习后可获得以下几个方面的知识和能力：1、掌握平面设计中包装设计基础理论知识，包括材料与刀版2、掌握平面设计中必须掌握的美术知识透视与光感3、掌握各类包装设计前思路与设计过程4、掌握视觉营销的重要性</p>
+<h2>学习地址</h2>
+<a class="dl" href="https://www.aliyundrive.com/s/crF1qe3PUJD" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 绝对OK的私教销售视频课程
+
+<details>
+<summary>点击查看：绝对OK的私教销售视频课程</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/08/7a459-1659341926405167.png" rel="box"><img alt="2.png" src="https://52sharing.cn/wp-content/uploads/2022/08/7a459-1659341926405167.png" title="1659341926405167.png"/></a></p>
+<h6>课程介绍</h6>
+<p>你们一定听过一句话，那就是见人说人话、见鬼说鬼话，其实我们在私教销售中也是一样的。例如有些买一样产品、有注重品牌的、有注重的服务的、有注重效率的、所以不同人群、我们在谈单时候的沟通点也是不一样的。 所以现在为你分享不同人群的私教销售中的谈单细节。</p>
+<h2>学习地址</h2>
+<a class="dl" href="https://www.aliyundrive.com/s/K2gdFbE6uBM" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 从剪辑到运营教你做国学号
+
+<details>
+<summary>点击查看：从剪辑到运营教你做国学号</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/07/59524-1659170386212764.png" rel="box"><img alt="2.png" src="https://52sharing.cn/wp-content/uploads/2022/07/59524-1659170386212764.png" title="1659170386212764.png"/></a></p>
+<h6>课程介绍</h6>
+<p>考哥国学内部资料，从剪辑到运营，手把手教如你何做出变现抖音国学号（教程+素材+模板），全网最详细的国学号教学，手把手教如你何做出强变的现国学号。</p>
+<h2>学习地址</h2>
+<a class="dl" href="https://www.aliyundrive.com/s/sAA5LNEtvS4" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 28天瘦10斤极速减脂计划
+
+<details>
+<summary>点击查看：28天瘦10斤极速减脂计划</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/07/c88b0-1658993278667198.png" rel="box"><img alt="2.png" src="https://52sharing.cn/wp-content/uploads/2022/07/c88b0-1658993278667198.png" title="1658993278667198.png"/></a></p>
+<h6>课程介绍</h6>
+<p>“热量差”是减肥成功的第一步，控制了热量的摄入就控制了减脂的结果，吃什么吃多少，给你一份详细好执行的饮食计划，带你了解关于蛋白粉、增肌粉的几个常见问题，教大家吃便利店，怎么才能吃不胖!</p>
+<h2>学习地址</h2>
+<p> </p>
+<div class="article-bq layui-clear"></div>
+<a class="dl" href="https://www.aliyundrive.com/s/oBSdqF7MAUj" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 副业思维12讲了解财富的本质
+
+<details>
+<summary>点击查看：副业思维12讲了解财富的本质</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/07/ba05f-1659093879563963.png" rel="box"><img alt="2.png" src="https://52sharing.cn/wp-content/uploads/2022/07/ba05f-1659093879563963.png" title="1659093879563963.png"/></a></p>
+<h6>课程介绍</h6>
+<p>了解财富的本质，是我们每个人都要学习的知识，抖音220w人的职业导师，知名上市公司战略规划总经理，从0到1，服务500万人社群，让你去有銭的地方赚銭，跟有钱的人赚銭，赚有銭人的銭。</p>
+<h6>学习地址</h6>
+<a class="dl" href="https://www.aliyundrive.com/s/98i1cPqtvM4" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+[🔙返回目录](#目录)
+
+***
+
+
+
+### 进阶影视解说陪跑训练营
+
+<details>
+<summary>点击查看：进阶影视解说陪跑训练营</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/07/d3114-1658993260957363.png" rel="box"><img alt="1.png" src="https://52sharing.cn/wp-content/uploads/2022/07/d3114-1658993260957363.png" title="1658993260957363.png"/></a></p>
+<h6>课程介绍</h6>
+<p>课程来自野草君的影视解说陪跑训练营，从新手进阶到成熟自媒体达人，价值699元。从0到1做出自己满意的视频作品，教你独立创作并运营账号的能力，持续稳定的流量密码，爆款文案的写作技巧和套路。</p>
+<h6>学习地址</h6>
+<a class="dl" href="https://www.aliyundrive.com/s/TdSD2k4PsjA" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 拳击基础练习技巧视频课程
+
+<details>
+<summary>点击查看：拳击基础练习技巧视频课程</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/07/60119-1658829949176762.png" rel="box"><img alt="2.png" src="https://52sharing.cn/wp-content/uploads/2022/07/60119-1658829949176762.png" title="1658829949176762.png"/></a></p>
+<h6>课程介绍</h6>
+<p>我们在练拳的过程中，有很多基本的拳击技巧，这些技巧会提升你的训练，攻击和防守技巧。保持你的站架，出拳要犀利。这样你会在有限时间高质量的完成练习。如果你想姿势正确并且有效的击打沙包而不是一直围绕着沙包气喘吁吁的显示你的“斗志”，不要在沙包面前浪费你的情绪！</p>
+<h2>学习地址</h2>
+<p><a class="dl" href="https://www.aliyundrive.com/s/pZjS4P8yvHK" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a><br/>
+ </p>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 风光摄影实战教程全能篇
+
+<details>
+<summary>点击查看：风光摄影实战教程全能篇</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/07/7525b-1658497405902199.png" rel="box"><img alt="1.png" src="https://52sharing.cn/wp-content/uploads/2022/07/7525b-1658497405902199.png" title="1658497405902199.png"/></a></p>
+<h6>课程介绍</h6>
+<p>摄影笔记风光摄影讲师，同时还是牛约视觉艺术学院数码摄影硕士，带你了解旅拍大人的奥秘，熟悉风光摄影前后各类技能，轻松带你摄风景，无限风光任你拍。</p>
+<h2>下载地址</h2>
+<a class="dl" href="https://www.aliyundrive.com/s/y47eapWw5ej" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 系统学习影视解说剪辑运营
+
+<details>
+<summary>点击查看：系统学习影视解说剪辑运营</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/07/6abc2-1658497432800493.png" rel="box"><img alt="2.png" src="https://52sharing.cn/wp-content/uploads/2022/07/6abc2-1658497432800493.png" title="1658497432800493.png"/></a></p>
+<h6>课程介绍</h6>
+<p>短视频基础课，价值666元。从0基础到成熟运营，简单细节教学。系统学习解说，学习文案，剪辑，全平台运营。适合想学习微信相关运营、办公软件教程、职场创业、成长教育、拍照摄影、两性情感、股票理财、等等课程的你。</p>
+<h2>学习地址</h2>
+<p></p><div style="border:1px dashed #F60; padding:10px; margin:10px 0; line-height:200%;  background-color:#FFF4FF; overflow:hidden; clear:both;"><!--wechatfans start--><a class="dl" href="https://www.aliyundrive.com/s/5wpHPsNzYP7" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a><!--wechatfans end--></div>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+
+
+
 
 ### 樊登读书会2022年合集（更新至7月16日）
 
