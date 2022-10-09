@@ -16,6 +16,39 @@
 
 ## 目录
 
+2022-10-09更新：
+
+- [光影七号第一期OC渲染直播课](#光影七号第一期OC渲染直播课)
+- [中视频无脑搬砖剪辑起号训练营](#中视频无脑搬砖剪辑起号训练营)
+- [2022度薇年iPad商业插画课程](#2022度薇年iPad商业插画课程)
+- [亲密关系指南必修视频课程](#亲密关系指南必修视频课程)
+- [2022最新剪映从入门到精通](#2022最新剪映从入门到精通)
+- [华为HCNA初学快速入门基础](#华为HCNA初学快速入门基础)
+- [2022情感人像摄影综合训练](#2022情感人像摄影综合训练)
+- [樊登读书会2022年合集（更新至10月1日）](#樊登读书会2022年合集（更新至10月1日）)
+- [负基础到不打稿自由速写绘画](#负基础到不打稿自由速写绘画)
+- [视频号电商带货实训营2.0课程](#视频号电商带货实训营2.0课程)
+- [思维导图训练营30天重构思维模型](#思维导图训练营30天重构思维模型)
+- [2022人物光影色彩基础班](#2022人物光影色彩基础班)
+- [抖音短视频seo搜索排名优化](#抖音短视频seo搜索排名优化)
+- [签单王高情商成交话术100问](#签单王高情商成交话术100问)
+- [支付宝红包，每日可领！！！](#支付宝红包，每日可领！！！)
+- [18堂超酷炫魔术教学视频课程](#18堂超酷炫魔术教学视频课程)
+- [一堂很有价值的美业总裁必修课](#一堂很有价值的美业总裁必修课)
+- [剧本杀创作写作变现训练营](#剧本杀创作写作变现训练营)
+- [2022年剪辑思维破冰行动视频课程](#2022年剪辑思维破冰行动视频课程)
+- [跟着莎士比亚从阅读到写作](#跟着莎士比亚从阅读到写作)
+- [带你0基础5天学会中视频创作](#带你0基础5天学会中视频创作)
+- [20天让你营销能力脱胎换骨](#20天让你营销能力脱胎换骨)
+- [63套餐饮小本创业技术教程](#63套餐饮小本创业技术教程)
+- [掌握流量密码+爆款系统+团队](#掌握流量密码+爆款系统+团队)
+- [超硬核沟通课:关于说话的一切](#超硬核沟通课:关于说话的一切)
+- [从初入销售到销冠那点事儿](#从初入销售到销冠那点事儿)
+- [从0到1玩转视频号搬运项目](#从0到1玩转视频号搬运项目)
+- [17小时微服务架构实战课程](#17小时微服务架构实战课程)
+- [300套创业随身手册](#300套创业随身手册)
+- [Excel数据分析实战视频课程](#Excel数据分析实战视频课程)
+
 2022-8-11更新：
 
 - [只讲你学得会的爆文写作训练营](#只讲你学得会的爆文写作训练营)
@@ -350,6 +383,573 @@
 - [用深度理性看清世界的本质](#用深度理性看清世界的本质)
 - [乌鸦救赎连招恋爱聊天法课程](#乌鸦救赎连招恋爱聊天法课程)
 - [3天从菜鸟成为超级带货抖主播](#3天从菜鸟成为超级带货抖主播)
+
+
+
+***
+
+### 光影七号第一期OC渲染直播课
+
+<details>
+<summary>点击查看：光影七号第一期OC渲染直播课</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/10/2022100816302972.png" rel="box"><img alt="" class="aligncenter size-full wp-image-32969" height="383" src="https://52sharing.cn/wp-content/uploads/2022/10/2022100816302972.png" width="900"/></a>OC渲染器是一款极为专业的GPU渲染工具，最方便好用且稳定的便是4.0版本，根据你的显卡性能从而做出最及时有效地渲染图效果，速度快、质量高，并搭载最新技术，完全互交，超乎你的想象完成一些有趣的事情。</p>
+<h2>学习地址</h2>
+<a class="dl" href="https://www.aliyundrive.com/s/LrJ856tiFRm" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 中视频无脑搬砖剪辑起号训练营
+
+<details>
+<summary>点击查看：中视频无脑搬砖剪辑起号训练营</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/10/2022100816265069.png" rel="box"><img alt="" class="aligncenter size-full wp-image-32966" height="383" src="https://52sharing.cn/wp-content/uploads/2022/10/2022100816265069.png" width="900"/></a>无需编写文案，纯视频剪辑搬运，通过简单的复制技巧，就能获取中视频收益。虽然搬砖门槛低，但收入稳定，简单易学好上手，会电脑基本操作即可轻松掌握，所谓量大出奇迹，可以批量复制单人多账号操作，个人生产力决定产出金额。只要平台不倒，都可以躺着赚钱，无需编写文案，纯视频剪辑搬运，通过简单的复制技巧，就能获取中视频收益。</p>
+<h2>学习地址</h2>
+<a class="dl" href="https://www.aliyundrive.com/s/qwZHrf5NATK" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 2022度薇年iPad商业插画课程
+
+<details>
+<summary>点击查看：2022度薇年iPad商业插画课程</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/10/2022100720465059.png" rel="box"><img alt="" class="aligncenter size-full wp-image-32959" height="383" src="https://52sharing.cn/wp-content/uploads/2022/10/2022100720465059.png" width="900"/></a>商业插画就是为企业或产品绘制的插画，因为是商业的，所以作者只保留署名权，用所有权换取一定的报酬。因为商业插画与绘画艺术有很大的关系，所以商业插画也借鉴了一些绘画艺术的表现手法。商业插画还使用软件工具，使其在设计主题的深度和广度上展现出更独特的艺术魅力和表现力。</p>
+<h2>学习地址</h2>
+<a class="dl" href="https://www.aliyundrive.com/s/AfZdHyZF6Xb" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 亲密关系指南必修视频课程
+
+<details>
+<summary>点击查看：亲密关系指南必修视频课程</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/10/202210062028231.png" rel="box"><img alt="" class="aligncenter size-full wp-image-32951" height="383" src="https://52sharing.cn/wp-content/uploads/2022/10/202210062028231.png" width="900"/></a>在课程里你将会收货高效的沟通交流能力，明白自己的需求和更了解对方，应对冲突时的行动技巧，提升个人价值的攻略，亲密关系中更好的决策能力。亲密关系应该算得上人这一生中最重要的事儿了。课程帮你解决情感困惑，有效的提升魅力、拉升情商，更好的应对恋爱中可能出现的大小问题。</p>
+<h2>学习地址</h2>
+<a class="dl" href="https://www.aliyundrive.com/s/EezFRXURCUk" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 2022最新剪映从入门到精通
+
+<details>
+<summary>点击查看：2022最新剪映从入门到精通</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/10/2022100619505315.png" rel="box"><img alt="" class="aligncenter size-full wp-image-32947" height="383" src="https://52sharing.cn/wp-content/uploads/2022/10/2022100619505315.png" width="900"/></a>剪映是抖音官方推出的一款手机视频编辑剪辑应用。带有全面的剪辑功能，支持变速，多样滤镜效果，以及丰富的曲库资源。软件发布的系统平台有IOS版和Android版。可谓是全网最好用的剪辑软件！98节剪映入门课带你从小白到大神。</p>
+<h2>学习地址</h2>
+<p></p><div style="border:1px dashed #F60; padding:10px; margin:10px 0; line-height:200%;  background-color:#FFF4FF; overflow:hidden; clear:both;"><!--wechatfans start--><a class="dl" href="https://www.aliyundrive.com/s/7xawkqwvig6" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a><!--wechatfans end--></div>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 华为HCNA初学快速入门基础
+
+<details>
+<summary>点击查看：华为HCNA初学快速入门基础</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/10/2022100515582534.png" rel="box"><img alt="" class="aligncenter size-full wp-image-32941" height="383" src="https://52sharing.cn/wp-content/uploads/2022/10/2022100515582534.png" width="900"/></a>有很多人想学习华为HCNA/HCNP/HCIE,但是基础比较薄弱，入门比较难，本课程主要讲解在学习华为HCNA/HCNP之前必须要会的简单技术，为非计算机专业学员补充IT常识，补充华为HCNA、HCNP知识点。的不足。提高后期学习HCNA、HCNP的吸收效率。</p>
+<h2>学习地址</h2>
+<a class="dl" href="https://www.aliyundrive.com/s/FhUdRK9SCQ4" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 2022情感人像摄影综合训练
+
+<details>
+<summary>点击查看：2022情感人像摄影综合训练</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/10/2022100515550321.png" rel="box"><img alt="" class="aligncenter size-full wp-image-32938" height="383" src="https://52sharing.cn/wp-content/uploads/2022/10/2022100515550321.png" width="900"/></a>人像摄影一直是最受欢迎的摄影主题，对于人像摄影如何拍出创造性的主题，来传达当时的情绪和感受，对于拍照的人来说是一个挑战，因为拍摄照片出来后必须让人感受到画面的情绪，而不仅仅是一个模特。让我们一起来看看怎么拍摄吧。</p>
+<h2>学习地址</h2>
+<p></p><div style="border:1px dashed #F60; padding:10px; margin:10px 0; line-height:200%;  background-color:#FFF4FF; overflow:hidden; clear:both;"><!--wechatfans start--><a class="dl" href="https://www.aliyundrive.com/s/mcdkHz5mUXx" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a><!--wechatfans end--></div>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 樊登读书会2022年合集（更新至10月1日）
+
+<details>
+<summary>点击查看：樊登读书会2022年合集（更新至10月1日）</summary>
+  <p><article class="article-content">
+<p><span style="font-size: medium;">樊登读书会2022年资源为本人自己下载并上传，无任何水印和广告，已更新至10月1日，将来将持续更新。</span></p>
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/01/2022011602382633.png" rel="box"><img alt="" class="aligncenter size-full wp-image-28664" height="466" src="https://52sharing.cn/wp-content/uploads/2022/01/2022011602382633.png" width="906"/></a> <a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/01/2022011602382855.png" rel="box"><img alt="" class="aligncenter size-full wp-image-28665" height="468" loading="lazy" src="https://52sharing.cn/wp-content/uploads/2022/01/2022011602382855.png" width="966"/></a><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/01/2022011602382855.png" rel="box"><img alt="" class="aligncenter size-full wp-image-28665" height="468" loading="lazy" src="https://52sharing.cn/wp-content/uploads/2022/01/2022011602382855.png" width="966"/></a></p>
+<h2>下载地址</h2>
+<p></p><div style="border:1px dashed #F60; padding:10px; margin:10px 0; line-height:200%;  background-color:#FFF4FF; overflow:hidden; clear:both;"><!--wechatfans start--><span style="font-size: medium;"><br/>
+「2022年樊登读书会」</span><a href="https://www.aliyundrive.com/s/1JBjZR1sfyg" rel="nofollow noopener noreferrer" target="_blank">https://www.aliyundrive.com/s/1JBjZR1sfyg</a>
+<p><span style="font-size: 12pt;">【樊登2013年-2022年全套】<a href="https://www.aliyundrive.com/s/P7SB3f8QbQy" rel="noopener noreferrer" target="_blank">https://www.aliyundrive.com/s/P7SB3f8QbQy </a></span><!--wechatfans end--></p></div>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 负基础到不打稿自由速写绘画
+
+<details>
+<summary>点击查看：负基础到不打稿自由速写绘画</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/10/2022100220365644.png" rel="box"><img alt="" class="aligncenter size-full wp-image-32925" height="383" src="https://52sharing.cn/wp-content/uploads/2022/10/2022100220365644.png" width="900"/></a></p>
+<h6>课程介绍</h6>
+<p>适合热爱绘画,但完全0基础的绘画新人，兴趣绘画多年,但因为跳过了前期的基础,后期越来越hold不住,长期提升缓慢的瓶颈期画手，插画、动画、漫画、影视、建筑景观、工程设计等需要，负基础到不打稿自由速写绘画入门必修课2022最新课程。</p>
+<h2>学习地址</h2>
+<a class="dl" href="https://www.aliyundrive.com/s/midgpYp9k5q" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 视频号电商带货实训营2.0课程
+
+<details>
+<summary>点击查看：视频号电商带货实训营2.0课程</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/10/2022100220102011.png" rel="box"><img alt="" class="aligncenter size-full wp-image-32917" height="383" src="https://52sharing.cn/wp-content/uploads/2022/10/2022100220102011.png" width="900"/></a></p>
+<h6>课程介绍</h6>
+<p>课程从视频号电商的底层逻辑和前期的准备工作开始讲起：视频号底层逻辑、选品逻辑、选品二次创作带货实操、无人直播详解、私域详解以及私域运营详解等等。</p>
+<h2>学习地址</h2>
+<a class="dl" href="https://www.aliyundrive.com/s/X3d3pzrd8Gy" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 思维导图训练营30天重构思维模型
+
+<details>
+<summary>点击查看：思维导图训练营 30天重构思维模型</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/10/202210011003167.jpg" rel="box"><img alt="" class="aligncenter size-full wp-image-32894" height="609" src="https://52sharing.cn/wp-content/uploads/2022/10/202210011003167.jpg" width="1429"/></a></p>
+<h2>下载地址</h2>
+<p><a class="dl" href="https://www.aliyundrive.com/s/MBFuUuu6Zvt" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a><br/>
+ </p>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 2022人物光影色彩基础班
+
+<details>
+<summary>点击查看：2022人物光影色彩基础班</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/09/2022092817382251.png" rel="box"><img alt="" class="aligncenter size-full wp-image-32886" height="383" src="https://52sharing.cn/wp-content/uploads/2022/09/2022092817382251.png" width="900"/></a></p>
+<h6>课程介绍</h6>
+<p>本课程为人物光影色彩基础班,内容涵盖软件介绍、打光入门、头像上色、衣服褶皱与材质表现、色彩控制、构图与氛围、完整插画后期等内容。精致人物角色,唯美色彩光影,梦幻氛围感营造。快来和酒鸟糖圆老师一起,画出唯美人物插画!</p>
+<h6>学习地址</h6>
+<p>百度：<a href="https://pan.baidu.com/s/1zIaGbG7O4Ha9hPuUYi6mTg" rel="noopener noreferrer" target="_blank">https://pan.baidu.com/s/1zIaGbG7O4Ha9hPuUYi6mTg</a></p>
+<p>天翼：<a href="https://cloud.189.cn/t/rqUBBr2yIFje" rel="noopener noreferrer" target="_blank">https://cloud.189.cn/t/rqUBBr2yIFje</a>(访问码:7cg1)</p>
+<p>阿里：<a href="https://www.aliyundrive.com/s/9ARVxRyiucw" rel="noopener noreferrer" target="_blank">https://www.aliyundrive.com/s/9ARVxRyiucw</a></p>
+<hr/></p>
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 抖音短视频seo搜索排名优化
+
+<details>
+<summary>点击查看：抖音短视频seo搜索排名优化</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/09/2022092817364383.png" rel="box"><img alt="" class="aligncenter size-full wp-image-32883" height="383" src="https://52sharing.cn/wp-content/uploads/2022/09/2022092817364383.png" width="900"/></a></p>
+<h6>课程介绍</h6>
+<p>课程来自网红叫兽的抖音短视频SEO搜索排名优化新手从入门到精通实战视频教程课程，价值1900元。无需粉丝量、无需播放量、也能爆单的短视频运营术。实体商家短视频搜索引擎优化seo精准引流实操课，让你用户搜索时，你的视频排在搜索结果前三位。</p>
+<h6>学习地址</h6>
+<p>百度：<a href="https://pan.baidu.com/s/1iluEhmIVN32GHmg-Ub2Vrg" rel="noopener noreferrer" target="_blank">https://pan.baidu.com/s/1iluEhmIVN32GHmg-Ub2Vrg</a></p>
+<p>天翼：<a href="https://cloud.189.cn/t/7nEfEnQvMBVj" rel="noopener noreferrer" target="_blank">https://cloud.189.cn/t/7nEfEnQvMBVj</a>(访问码:upp6)</p>
+<p>阿里：<a href="https://www.aliyundrive.com/s/9ULuLRPuzfV" rel="noopener noreferrer" target="_blank">https://www.aliyundrive.com/s/9ULuLRPuzfV</a></p>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 签单王高情商成交话术100问
+
+<details>
+<summary>点击查看：签单王高情商成交话术100问</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/09/202209231810142.png" rel="box"><img alt="" class="aligncenter size-full wp-image-32860" height="383" src="https://52sharing.cn/wp-content/uploads/2022/09/202209231810142.png" width="900"/></a></p>
+<h6>课程介绍</h6>
+<p>所谓情商高，就是会说话，不管你是职场销售，还是高层管理学会说话都是一门必修课，因为会说话，不仅会卖出更多的产品。还会让你工作顺心如意，让我们跟随课程一起来看看，高情商的人是怎么做的。</p>
+<h2>学习地址</h2>
+<a class="dl" href="https://www.aliyundrive.com/s/BJJwwhw2Mhp" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 支付宝红包，每日可领！！！
+
+<details>
+<summary>点击查看：支付宝红包，每日可领！！！</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/07/2022092317464268.png" rel="box"><img alt="" class="aligncenter wp-image-32852 size-medium" height="300" src="https://52sharing.cn/wp-content/uploads/2022/07/2022092317464268-207x300.png" width="207"/></a><span style="font-size: 16px;">2022年9月23日起</span></p>
+<p><span style="font-size: 12pt;">支付宝又开始烧钱了！</span></p>
+<p><span style="font-size: 12pt;">支付宝扫描上方二维码，可以领取每日红包。</span></p>
+<p><!--StartFragment --></p>
+<div><span style="font-size: 12pt;"> </span></div>
+<div><span style="font-size: 12pt;">大家也可以直接在支付宝首页搜索“<strong><span style="color: #ff0000;">798696218</span></strong>”领取红包。</span></div>
+<div><span style="font-size: 12pt;"> </span></div>
+<div><span style="font-size: 12pt;">月底前大包概率非常大噢，<strong><span style="color: #ff0000;">每天都有</span></strong></span></div>
+<div></div>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 18堂超酷炫魔术教学视频课程
+
+<details>
+<summary>点击查看：18堂超酷炫魔术教学视频课程</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/09/aed8a-1663583973573023.png" rel="box"><img alt="2.png" src="https://52sharing.cn/wp-content/uploads/2022/09/aed8a-1663583973573023.png" title="1663583973573023.png"/></a></p>
+<h6>课程介绍</h6>
+<p>增强动手能力，舞台表现力，生活中的普通用品即可表演，教学步骤超级详细，你绝对学得会。也可用于撩妹，妹子一看真NB，嘎嘎和你在一起。</p>
+<h6>学习地址</h6>
+<p></p><div style="border:1px dashed #F60; padding:10px; margin:10px 0; line-height:200%;  background-color:#FFF4FF; overflow:hidden; clear:both;"><!--wechatfans start--><a class="dl" href="https://www.aliyundrive.com/s/hc7iqGviU94" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a><!--wechatfans end--></div>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 一堂很有价值的美业总裁必修课
+
+<details>
+<summary>点击查看：一堂很有价值的美业总裁必修课</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/09/83387-1662894581214399.png" rel="box"><img alt="1.png" src="https://52sharing.cn/wp-content/uploads/2022/09/83387-1662894581214399.png" title="1662894581214399.png"/></a></p>
+<h6>课程介绍</h6>
+<p>只讲自己的亲身经历，一线的实战玩法。实操性强每一节课都留可落地的，执行方案+具体的作业，深度还原自己10年美业路踩的每一个坑。以及推荐美业各个领域我认为比较靠谱的老师.</p>
+<h2>学习地址</h2>
+<p></p><div style="border:1px dashed #F60; padding:10px; margin:10px 0; line-height:200%;  background-color:#FFF4FF; overflow:hidden; clear:both;"><!--wechatfans start--><a class="dl" href="https://www.aliyundrive.com/s/q6svdF6PFUw" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a><!--wechatfans end--></div>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 剧本杀创作写作变现训练营
+
+<details>
+<summary>点击查看：剧本杀创作写作变现训练营</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/09/b51a7-1662894600577282.png" rel="box"><img alt="2.png" src="https://52sharing.cn/wp-content/uploads/2022/09/b51a7-1662894600577282.png" title="1662894600577282.png"/></a></p>
+<h6>课程介绍</h6>
+<p>剧本杀已经凭借着其推理、角色扮演、沉浸式体验等元素，成为了当下年轻人的社交新宠，讲着故事，就把钱挣了。9节课程带你学习了解剧本杀创作写作变现营。</p>
+<h2>学习地址</h2>
+<a class="dl" href="https://www.aliyundrive.com/s/9DARGehb9hK" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 2022年剪辑思维破冰行动视频课程
+
+<details>
+<summary>点击查看：2022年剪辑思维破冰行动视频课程</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/09/7c310-1662545581810729.png" rel="box"><img alt="2.png" src="https://52sharing.cn/wp-content/uploads/2022/09/7c310-1662545581810729.png" title="1662545581810729.png"/></a></p>
+<h6>课程介绍</h6>
+<p>这套课程非常适合有剪辑软件操作基础，希望提升剪辑思维，能学到一线剪辑师的实战经验，并且能轻松听懂，让自己拥有更规范化的剪辑工作流程，少走弯路，最后不管你使用哪款剪辑软件，都能利用起来进行创作。</p>
+<h2>学习地址</h2>
+<p></p><div style="border:1px dashed #F60; padding:10px; margin:10px 0; line-height:200%;  background-color:#FFF4FF; overflow:hidden; clear:both;"><!--wechatfans start--><a class="dl" href="「2022年剪辑思维破冰行动视频课程」https://www.aliyundrive.com/s/TuoxuQdyHJ7" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a><!--wechatfans end--></div>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 跟着莎士比亚从阅读到写作
+
+<details>
+<summary>点击查看：跟着莎士比亚从阅读到写作</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/09/54fb6-1662457827474518.png" rel="box"><img alt="1.png" src="https://52sharing.cn/wp-content/uploads/2022/09/54fb6-1662457827474518.png" title="1662457827474518.png"/></a></p>
+<h6>课程介绍</h6>
+<p>这是猫博士“名著：从阅读到写作”系列课程的第一个系列课题。讲透1部莎士比亚的经典剧作，全年总共讲12部。之所以采取“月更”的方式，是为了给大家留出充分的阅读、思考和创作时间。课程中，拆解结构，读透莎士比亚12部经典剧作 拓展思路，向大师学习写作的方法与技术，首先从阅读的角度，拆解剧作，透析故事结构、人物结构、叙述结构与世界结构，并且延伸到拥有类似结构的其他作品。这个部分会以视频课程的方式呈现。</p>
+<h6>学习地址</h6>
+<p></p><div style="border:1px dashed #F60; padding:10px; margin:10px 0; line-height:200%;  background-color:#FFF4FF; overflow:hidden; clear:both;"><!--wechatfans start--><a class="dl" href="https://www.aliyundrive.com/s/DTz5VQPcMsZ" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云盘</a><!--wechatfans end--></div>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 带你0基础5天学会中视频创作
+
+<details>
+<summary>点击查看：带你0基础5天学会中视频创作</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/08/8e1b7-1661423081597898.png" rel="box"><img alt="2.png" src="https://52sharing.cn/wp-content/uploads/2022/08/8e1b7-1661423081597898.png" title="1661423081597898.png"/></a></p>
+<h6>课程介绍</h6>
+<p>从零开始运营账号，让你掌握完整的视频运营技巧，课程+导师全程指导，帮助学员从零基础到完全掌握，课程共16节实操课程：从自媒体前景开始讲起，中视频计划讲解、老师部分账号收益展示，公式实景展示，基础课总结，教你起标题技巧、流量题材玄奇，文案写作、字幕制作、视频解析下载、剪映实操、封面制作、账号注册到作品发布全流程。</p>
+<h2>学习地址</h2>
+<p></p><div style="border:1px dashed #F60; padding:10px; margin:10px 0; line-height:200%;  background-color:#FFF4FF; overflow:hidden; clear:both;"><!--wechatfans start--><a class="dl" href="https://www.aliyundrive.com/s/b1ZcmnLAPUw" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a><!--wechatfans end--></div>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 20天让你营销能力脱胎换骨
+
+<details>
+<summary>点击查看：20天让你营销能力脱胎换骨</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/08/d046c-1661520007230825.png" rel="box"><img alt="2.png" src="https://52sharing.cn/wp-content/uploads/2022/08/d046c-1661520007230825.png" title="1661520007230825.png"/></a></p>
+<h6>课程介绍</h6>
+<p>内容营销实操特训营20天让你营销能力脱胎换骨，你将收获全网首发，来自一线体系化的品牌打法，低成本高ROl获取精准流量的能力，一生受用的营销底层逻辑和核心思路，3个月用内容引爆增长的能力，超长授课10小时600分钟线上直播课程，实操演练8次课程实战训练，高效提升。</p>
+<h2>学习地址</h2>
+<p></p><div style="border:1px dashed #F60; padding:10px; margin:10px 0; line-height:200%;  background-color:#FFF4FF; overflow:hidden; clear:both;"><!--wechatfans start--><a class="dl" href="https://www.aliyundrive.com/s/UhGnN6DdLdt" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a><!--wechatfans end--></div>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 63套餐饮小本创业技术教程
+
+<details>
+<summary>点击查看：63套餐饮小本创业技术教程</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2020/03/2020032303164669.gif" rel="box"><img alt="" class="aligncenter size-full wp-image-20103" height="473" src="https://52sharing.cn/wp-content/uploads/2020/03/2020032303164669.gif" width="305"/></a>餐饮业小本创业多个项目教程，希望对有想从事该行业的有用，课程内步骤还算详细，可供参考学习，有几个文件名一样的技术并不是重复，做法不一样。</p>
+<h2>下载地址</h2>
+<p></p><div style="border:1px dashed #F60; padding:10px; margin:10px 0; line-height:200%;  background-color:#FFF4FF; overflow:hidden; clear:both;"><!--wechatfans start--><a class="dl" href="https://pan.baidu.com/s/1LtxmhpMHO8z6t3L3gn-itQ" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>百度网盘</a><!--wechatfans end--></div>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 掌握流量密码+爆款系统+团队
+
+<details>
+<summary>点击查看：掌握流量密码+爆款系统+团队</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/08/d1b19-1661164729608683.png" rel="box"><img alt="1.png" src="https://52sharing.cn/wp-content/uploads/2022/08/d1b19-1661164729608683.png" title="1661164729608683.png"/></a></p>
+<h6>课程介绍</h6>
+<p>你还在头痛这些问题吗？为什么同一个产品，A店能卖爆，B店卖不燥？为什么产品测试数据很好，却打不成爆款？为什么对手的产品，不怎么推广也能卖起来？为什么同款产品，我先操作，对手的流量却比我多？为什么我的销量排序比他高，但免费流量却比他少？这些困惑，你真的有答案吗？这些问题，又应该如何解决？学完你将收获：1.掌握流量获取密码2.建立爆款运营系统3.复制爆款运营团队。</p>
+<h2>学习地址</h2>
+<p><a class="dl" href="https://www.aliyundrive.com/s/obxpnw3nDjw" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a><br/>
+ </p>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 超硬核沟通课:关于说话的一切
+
+<details>
+<summary>点击查看：超硬核沟通课:关于说话的一切</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/08/67bb1-1661164749289379.png" rel="box"><img alt="2.png" src="https://52sharing.cn/wp-content/uploads/2022/08/67bb1-1661164749289379.png" title="1661164749289379.png"/></a></p>
+<h6>课程介绍</h6>
+<p>你这话到底是什么“意思”开局就带你进入硬核“一说话，就紧张”的另类解读，用一句话打动人心，语言方式扭曲我们的人际互动方式。课程非常适合希望系统提升表达能力的你，不满足于讲“漂亮话”“场面话”而希望自己能真正深刻地思考，通透的表达的人。</p>
+<h2>学习地址</h2>
+<a class="dl" href="https://www.aliyundrive.com/s/T4FGBVnfWvA" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 从初入销售到销冠那点事儿
+
+<details>
+<summary>点击查看：从初入销售到销冠那点事儿</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/08/9b9e0-1660992612485712.png" rel="box"><img alt="2.png" src="https://52sharing.cn/wp-content/uploads/2022/08/9b9e0-1660992612485712.png" title="1660992612485712.png"/></a></p>
+<h6>课程介绍</h6>
+<p>一个厉害的销售，一定可以做到面对不同的客户，建立信任感的闲聊内容要有所不同，这就要求你具备快速学习能力，扩充你的认知边界，做好知识与知识之间的深层次关联。懂得销售，不单单是企业需要，个人的生活工作也需要。销售不单单只是卖东西，成功的销售不只是找到需求，更是以最优的方案去匹配需求，且可持续。</p>
+<h2>学习地址</h2>
+<a class="dl" href="https://www.aliyundrive.com/s/qbNSocBKZur" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云盘</a>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 从0到1玩转视频号搬运项目
+
+<details>
+<summary>点击查看：从0到1玩转视频号搬运项目</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/08/1ba43-1660992590771012.png" rel="box"><img alt="1.png" src="https://52sharing.cn/wp-content/uploads/2022/08/1ba43-1660992590771012.png" title="1660992590771012.png"/></a></p>
+<h6>课程介绍</h6>
+<p>错过了抖音，千万不要错过视频号，在抖音、快手曾经火过的视频、爆品、形式，都可以在视频号上再来一轮，目前风口期必做搬运、剪辑带货项目；而且对于新账号有5-10次的推荐机会，每次流量1-10万；视频号用户年龄偏大，这部分客户认知较低，购买力强，人群复购率高！</p>
+<h2>学习地址</h2>
+<p><a class="dl" href="https://www.aliyundrive.com/s/8EQyDf1zEpq" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云盘</a><br/>
+ </p>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 17小时微服务架构实战课程
+
+<details>
+<summary>点击查看：17小时微服务架构实战课程</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/08/39f1d-1660641569906929.png" rel="box"><img alt="1.png" src="https://52sharing.cn/wp-content/uploads/2022/08/39f1d-1660641569906929.png" title="1660641569906929.png"/></a></p>
+<h6>课程介绍</h6>
+<p>微服务架构课程精选视频合集（含电商微服务项目实战案例），从电商微服务架构的底层原理到源码解析再到电商微服务项目实战案例深入讲解微服务架构。</p>
+<h2>学习地址</h2>
+<p><a class="dl" href="https://www.aliyundrive.com/s/7h448KWJBuF" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a><br/>
+ </p>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### 300套创业随身手册
+
+<details>
+<summary>点击查看：300套创业随身手册</summary>
+  <p><article class="article-content">
+<p><a href="https://imgtu.com/i/vNAJ54" rel="nofollow noopener noreferrer" target="_blank"><img alt="" border="0" class="zoom" height="264" id="aimg_O5X6l" src="https://52sharing.cn/wp-content/uploads/2022/08/7b605-vNAJ54.md.jpg" width="680"/></a></p>
+<h2>下载地址</h2>
+<p><a class="dl" href="https://www.aliyundrive.com/s/EBtf4aCjL7k" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a><br/>
+ </p>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
+
+### Excel数据分析实战视频课程
+
+<details>
+<summary>点击查看：Excel数据分析实战视频课程</summary>
+  <p><article class="article-content">
+<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/08/4cf73-1660295338179472.png" rel="box"><img alt="1.png" src="https://52sharing.cn/wp-content/uploads/2022/08/4cf73-1660295338179472.png" title="1660295338179472.png"/></a></p>
+<h6>课程介绍</h6>
+<p>体系、实用、实战六个字概括Excel数据分析实战视频课程，适合需提升竞争力、提升工作效率、喜欢用数据说话的职场人士，如从事产品、运营、市场、财务、人事、分析等。</p>
+<h2>学习地址</h2>
+<p></p><div style="border:1px dashed #F60; padding:10px; margin:10px 0; line-height:200%;  background-color:#FFF4FF; overflow:hidden; clear:both;"><!--wechatfans start--><a class="dl" href="https://www.aliyundrive.com/s/Lbar6JeYX3j" rel="nofollow" target="_blank"><i class="fa fa-cloud-download"></i>阿里云</a><!--wechatfans end--></div>
+<hr/></p>
+
+  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
+</details>
+
+
+[🔙返回目录](#目录)
+***
 
 
 
