@@ -32,7 +32,6 @@
 - [2022人物光影色彩基础班](#2022人物光影色彩基础班)
 - [抖音短视频seo搜索排名优化](#抖音短视频seo搜索排名优化)
 - [签单王高情商成交话术100问](#签单王高情商成交话术100问)
-- [支付宝红包，每日可领！！！](#支付宝红包，每日可领！！！)
 - [18堂超酷炫魔术教学视频课程](#18堂超酷炫魔术教学视频课程)
 - [一堂很有价值的美业总裁必修课](#一堂很有价值的美业总裁必修课)
 - [剧本杀创作写作变现训练营](#剧本杀创作写作变现训练营)
@@ -561,8 +560,8 @@
   <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
 </details>
 
-
 [🔙返回目录](#目录)
+
 ***
 
 ### 思维导图训练营30天重构思维模型
@@ -641,29 +640,7 @@
 
 
 [🔙返回目录](#目录)
-***
 
-### 支付宝红包，每日可领！！！
-
-<details>
-<summary>点击查看：支付宝红包，每日可领！！！</summary>
-  <p><article class="article-content">
-<p><a class="fancybox" href="https://52sharing.cn/wp-content/uploads/2022/07/2022092317464268.png" rel="box"><img alt="" class="aligncenter wp-image-32852 size-medium" height="300" src="https://52sharing.cn/wp-content/uploads/2022/07/2022092317464268-207x300.png" width="207"/></a><span style="font-size: 16px;">2022年9月23日起</span></p>
-<p><span style="font-size: 12pt;">支付宝又开始烧钱了！</span></p>
-<p><span style="font-size: 12pt;">支付宝扫描上方二维码，可以领取每日红包。</span></p>
-<p><!--StartFragment --></p>
-<div><span style="font-size: 12pt;"> </span></div>
-<div><span style="font-size: 12pt;">大家也可以直接在支付宝首页搜索“<strong><span style="color: #ff0000;">798696218</span></strong>”领取红包。</span></div>
-<div><span style="font-size: 12pt;"> </span></div>
-<div><span style="font-size: 12pt;">月底前大包概率非常大噢，<strong><span style="color: #ff0000;">每天都有</span></strong></span></div>
-<div></div>
-<hr/></p>
-
-  <img src="https://tvax4.sinaimg.cn/large/0065ZrXsgy1h3zhqc23iaj30p00anq57.jpg"><img>
-</details>
-
-
-[🔙返回目录](#目录)
 ***
 
 ### 18堂超酷炫魔术教学视频课程
